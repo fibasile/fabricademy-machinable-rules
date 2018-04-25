@@ -1,0 +1,21 @@
+{
+    "faq": "None yet\n", 
+    "tasks": [
+        {
+            "checklist": [
+                "Used one or more different techniques to make a prototype of a technical textile application", 
+                "Documented the process you followed", 
+                "Recorded the process in video or made a stop motion movie"
+            ], 
+            "description": null, 
+            "name": "The Textile Scaffold", 
+            "outcomes": [
+                "Understand various applications of technical textiles", 
+                "Learn to use textiles for composites, concrete casting, crystallization, biocomposites and other applications"
+            ]
+        }
+    ], 
+    "version": 2018, 
+    "unit": "The Textile Scaffold", 
+    "unit_id": "textile_scaffold"
+}

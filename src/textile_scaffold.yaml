@@ -1,0 +1,16 @@
+unit: The Textile Scaffold
+unit_id: textile_scaffold
+version: 2018
+tasks:
+- name: The Textile Scaffold
+  description: 
+  outcomes:
+  - Understand various applications of technical textiles
+  - Learn to use textiles for composites, concrete casting, crystallization, biocomposites and other applications
+  checklist:
+  - Used one or more different techniques to make a prototype of a technical textile application
+  - Documented the process you followed
+  - Recorded the process in video or made a stop motion movie
+faq: |
+  None yet
+  

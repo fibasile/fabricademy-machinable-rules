@@ -1,0 +1,22 @@
+{
+    "faq": "None yet", 
+    "tasks": [
+        {
+            "checklist": [
+                "Built one or more soft sensors and actuators", 
+                "Created your code and connected with input and output", 
+                "Documented the project and included all the source files"
+            ], 
+            "description": null, 
+            "name": "E-textiles and Wearables II", 
+            "outcomes": [
+                "Understand more advanced components and materials for creating soft sensors and actuators, including shape memory alloys, accelerometers, pressure,  stretch", 
+                "Explore possible applications for soft circuits in the fashion and textile industry", 
+                "Understand and learn different inputs and outputs"
+            ]
+        }
+    ], 
+    "version": 2018, 
+    "unit": "E-textiles and Wearables II", 
+    "unit_id": "etextiles2"
+}

@@ -1,0 +1,24 @@
+# Biofabricating dyes & materials
+
+## Biofabricating dyes & materials
+
+None
+### Learning outcomes
+
+* Understand the issues caused by current practices of the textile industry dyeing processes
+* Exploring material and colouring alternatives, ranging from natural dyes, using pigments and bacteria, to material biofabrication.
+* Exploring local recipes of DIY materials
+
+### Have you?
+
+* Produced at least one natural dye or bacterial dye. Natural dye - modifying it’s colour and mordanting it in different ways to dye at least 2 different categories of fibers Bacterial dye - Explored dyeing with bacteria of different fibers and/or bacteria
+* Produced at least one crafted or grown material. Crafted material - explore the different recipes and understand how to adjust them based on the ingredients Grown material - explore the different recipes and understand how to adjust them based on the ingredients
+* Documented the recipes and process and if there have been changes
+* Documented the recipes and outcomes in detail, in order to be able to reproduce the material
+* Named your materials, classified them by typology and display them in a systematic order of samples.
+* Uploaded and published all your documentation
+* Submitted some of your swatches to the analog material library of your lab. (20cm *20cm aprox)
+
+## FAQ
+
+None yet

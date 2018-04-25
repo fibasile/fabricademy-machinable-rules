@@ -1,0 +1,17 @@
+unit: OPEN SOURCE HARDWARE from fibers to fabrics
+unit_id: oshw
+version: 2018
+tasks:
+- name: OPEN SOURCE HARDWARE from fibers to fabrics
+  description: 
+  outcomes:
+  - Understand the potential of open source hardware in the area of textiles
+  - Learn the possibilities for updating obsolete machines with new technology
+  - Explore how to use digital fabrication to fabricate an open source machine or tool for knitting, weaving or similar processes
+  checklist:
+  - Hacked, built or modified a machine
+  - Documented the processes including the source files
+  - Document the parts and how to make your tool or machine
+faq: |
+    None yet
+    

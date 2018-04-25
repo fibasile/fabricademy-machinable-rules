@@ -1,0 +1,23 @@
+{
+    "faq": "None yet\n", 
+    "tasks": [
+        {
+            "checklist": [
+                "Built your own version of the \u201cSkin masquerade party\u201d project or", 
+                "Built your own version of the \u201cTwinkle Nails\u201d project", 
+                "Documented the project and included all source files, and all materials used", 
+                "Make a short video or gif of your interactive makeup- body extension"
+            ], 
+            "description": null, 
+            "name": "E-textiles and Wearables II", 
+            "outcomes": [
+                "Explore the possible applications at the intersection between the biotech/tech companies and skin professionals such as makeup artists, prosthesis experts and tattooists in order to understand the idea of human-device symbiosis", 
+                "Learn how to use of special effects makeup for hiding electronic components producing what it looks like a second skin.", 
+                "How to read with rfid tags"
+            ]
+        }
+    ], 
+    "version": 2018, 
+    "unit": "Skin Electronics", 
+    "unit_id": "skin_electronics"
+}
