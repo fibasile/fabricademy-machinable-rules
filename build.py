@@ -80,6 +80,9 @@ if __name__ == '__main__':
                 os.makedirs(JSON_DIR)
             try:
                 data = read_yaml(source)
+                for t in data['tasks']:
+                    if not t['description']:
+                       t['description']=''
                 jsonFile = os.path.basename(source).replace('.yaml', '.json')
                 jsonData = json.dumps(data, indent=4)
                 tmp_file = codecs.open(

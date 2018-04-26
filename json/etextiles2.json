@@ -7,7 +7,7 @@
                 "Created your code and connected with input and output", 
                 "Documented the project and included all the source files"
             ], 
-            "description": null, 
+            "description": "", 
             "name": "E-textiles and Wearables II", 
             "outcomes": [
                 "Understand more advanced components and materials for creating soft sensors and actuators, including shape memory alloys, accelerometers, pressure,  stretch", 

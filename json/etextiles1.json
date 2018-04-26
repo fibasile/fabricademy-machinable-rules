@@ -10,7 +10,7 @@
                 "Document your circuit on your webpage", 
                 "Upload your code on your webside"
             ], 
-            "description": null, 
+            "description": "", 
             "name": "E-textiles and Wearables", 
             "outcomes": [
                 "Understand how we can produce soft circuits, sensors and actuators", 
