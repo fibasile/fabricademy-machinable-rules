@@ -3,15 +3,25 @@
     "tasks": [
         {
             "checklist": [
-                "Used one or more different techniques to make a prototype of a technical textile application", 
+                {
+                    "Used the method of concrete fabric forming to shape your fabric mold ( advanced": "used 3D modeling software to simulate your fabric deformation, laser cut pattern of fabric)"
+                }, 
+                "Chose one Crystal and created a textile medium for the crystal growth", 
+                "Create a 3D mold and a textile composite", 
                 "Documented the process you followed", 
+                "Documented errors and failures", 
                 "Recorded the process in video or made a stop motion movie"
             ], 
             "description": "", 
             "name": "The Textile Scaffold", 
             "outcomes": [
-                "Understand various applications of technical textiles", 
-                "Learn to use textiles for composites, concrete casting, crystallization, biocomposites and other applications"
+                "Broaden the knowledge of technical textile applications and industrial processes.", 
+                "Learn to shape 3D forms with textiles and yarns.", 
+                "Understand yarn and textile properties.", 
+                "Learn the processes, machines, materials & tools to create textile composites and casts.", 
+                "Concrete fabric forming technique,", 
+                "Crystallization", 
+                "Alternative Techniques"
             ]
         }
     ], 
