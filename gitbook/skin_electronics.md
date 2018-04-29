@@ -1,6 +1,6 @@
 # Skin Electronics
 
-## E-textiles and Wearables II
+## Skin Electronics
 
 None
 ### Learning outcomes

@@ -5,13 +5,19 @@
 None
 ### Learning outcomes
 
-* Understand various applications of technical textiles
-* Learn to use textiles for composites, concrete casting, crystallization, biocomposites and other applications
+* Understand to shape 3D forms with textiles and yarns.
+* Understand the processes, machines, materials & tools to create textile composites and casts.
+* Practice Crystallization
+* Try concrete fabric forming techniques or alternative composite techniques
 
 ### Have you?
 
-* Used one or more different techniques to make a prototype of a technical textile application
+* Used the method of concrete fabric forming to shape your fabric mold
+* Used 3D modeling software to simulate your fabric deformation, laser cut pattern of fabric (advanced)
+* Chose one Crystal and created a textile medium for the crystal growth
+* Create a 3D mold and a textile composite
 * Documented the process you followed
+* Documented errors and failures
 * Recorded the process in video or made a stop motion movie
 
 ## FAQ

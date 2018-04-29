@@ -5,13 +5,10 @@ tasks:
 - name: The Textile Scaffold
   description: 
   outcomes:
-  - Broaden the knowledge of technical textile applications and industrial processes. 
-  - Learn to shape 3D forms with textiles and yarns.
-  - Understand yarn and textile properties. 
-  - Learn the processes, machines, materials & tools to create textile composites and casts.
-  - Concrete fabric forming technique, 
-  - Crystallization
-  - Alternative Techniques
+  - Understand to shape 3D forms with textiles and yarns.
+  - Understand the processes, machines, materials & tools to create textile composites and casts.
+  - Practice Crystallization
+  - Try concrete fabric forming techniques or alternative composite techniques
   checklist:
   - Used the method of concrete fabric forming to shape your fabric mold 
   - Used 3D modeling software to simulate your fabric deformation, laser cut pattern of fabric (advanced)

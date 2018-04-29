@@ -2,7 +2,7 @@ unit: Skin Electronics
 unit_id: skin_electronics
 version: 2018
 tasks:
-- name: E-textiles and Wearables II
+- name: Skin Electronics 
   description: 
   outcomes:
   - Explore the possible applications at the intersection between the biotech/tech companies and skin professionals such as makeup artists, prosthesis experts and tattooists in order to understand the idea of human-device symbiosis
