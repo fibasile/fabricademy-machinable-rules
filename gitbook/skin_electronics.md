@@ -5,9 +5,8 @@
 None
 ### Learning outcomes
 
-* Explore the possible applications at the intersection between the biotech/tech companies and skin professionals such as makeup artists, prosthesis experts and tattooists in order to understand the idea of human-device symbiosis
-* Learn how to use of special effects makeup for hiding electronic components producing what it looks like a second skin.
-* How to read with rfid tags
+* Understand how to implement electronics close to the body as an interface
+* Learn how to embed electronics into the body, creating a second skin
 
 ### Have you?
 
