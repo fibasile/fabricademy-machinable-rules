@@ -41,7 +41,7 @@ def make_task(task):
     print >> task_md, '### Learning outcomes\n'
     for task_outcome in task['outcomes']:
         print >> task_md, '* %s' % task_outcome
-    print >> task_md, '\n### Have you?\n'
+    print >> task_md, '\n### Student checklist\n'
     for task_checklist in task['checklist']:
         print >> task_md, '* %s' % task_checklist
     return task_md.buffer.getvalue()
