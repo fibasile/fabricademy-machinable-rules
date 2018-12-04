@@ -5,16 +5,21 @@
 None
 ### Learning outcomes
 
-* Explore computational design methods towards a new reinterpretation of cloths, garments and accessories for fashion design, inspired by a new digital design methodology
-* Learn how to use Grasshopper or similar software along with the relevant software libraries
-* Understand how to develop or modify an existing parametric model with the goal of producing it using digital fabrication techniques
+* References: tutorial, links, inspiration
+* Design: sketch, 3D modeling skills, Parametric modeling skills
+* Fabrication: Capable of executing from file to production workflow, from 3D modelling to 3D printing, parameters, materials
+* Documentation: Anyone can go through the process and understand it
+* Final outcome: Is the project assembled, functioning and complete
+* Originality - Aesthetics: Has the design been thought through and elaborated
 
 ### Have you?
 
-* Built a parametric model using Grasshopper3D or similar software
-* Produced your model using 3D Printing or other digital fabrication technologies
-* Experimented a combination of the techniques introduced in the class
-* Create a sample of your 3D printed piece for the analog library
+* Document the concept, sketches, references also to artistic and scientific publications
+* Design a parametric model using Grasshopper3D and uploadthe rhino file + grasshopper files.
+* Learn how to use 3D printing techniques to print the 3D model in/on the chosen materials.
+* Document the workflow for exporting your file and preparing the machine and gcode to be 3D printed
+* Upload your stl file with pictures at: https://oscircularfashion.com
+* Submit some of your swatches to the analog material library of your lab. Size 20cm*20cm approx. (extra credit)
 
 ## FAQ
 

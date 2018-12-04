@@ -1,6 +1,6 @@
-# E-textiles and Wearables
+# Wearables I
 
-## E-textiles and Wearables
+## Wearables
 
 None
 ### Learning outcomes
@@ -13,13 +13,15 @@ None
 
 ### Have you?
 
-* Built one or more soft sensors, using different materials and techniques (hard/hard hard/soft soft/soft)
-* Documented the sensor project and include a step by step making of as well as the readings you get using the AnalogRead of arduino
-* Learn how to use the attiny and build a small circuit
-* Intergate the attiny and the soft sensor into a swatch, textile using hard soft connections solutions
-* Document your circuit on your webpage
-* Upload your code on your webside
+* Build at least one digital and one analogue soft sensors, using different materials and techniques.
+* Document the sensor project as well as the readings got using the AnalogRead of Arduino
+* Integrate the two soft sensors into one or two textile swatches using hard soft connections
+* Document the circuit and it's schematic
+* Document your swatches
+* Upload a small video of the swatches functioning
+* Integrate the swatch into a project (extra credit)
 
 ## FAQ
 
 None yet
+

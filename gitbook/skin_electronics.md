@@ -10,10 +10,11 @@ None
 
 ### Have you?
 
-* Built your own version of the “Skin masquerade party” project or
-* Built your own version of the “Twinkle Nails” project
-* Documented the project and included all source files, and all materials used
-* Make a short video or gif of your interactive makeup- body extension
+* Document the concept, sketches, references also to artistic and scientific publications
+* Design a skin circuit: Build your own version of the Skin masquerade party project or Build your own version of the Twinkle Nails project
+* Document the project and included all source files, and all materials used
+* Make a video with your skin electronic working
+* Make a performance of your project functioning (extra credit)
 
 ## FAQ
 

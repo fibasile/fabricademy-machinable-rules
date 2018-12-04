@@ -5,18 +5,25 @@
 None
 ### Learning outcomes
 
-* Discover the soft robotics field, its applications and the open toolkit
-* Learn the fabrication of soft actuators, sensors and grippers using novel materials, artificial muscles and performative locomotion design
+* References: tutorials, links, inspiration
+* Design: Sketch, 2D and 3D modeling, Parametric modeling and  electronic skills, simulation
+* Fabrication: Capable of executing from file to production workflow, molding and casting, vinylcutting, laser cutting
+* Documentation: Anyone can go through the process and understand it
+* Final outcome: Is the project assembled, functioning and complete
+* Originality - Aesthetics: Has the design been thought through and elaborated
 
 ### Have you?
 
-* Developed a pneumatic wrist brace (basic level) or
-* Developed a Soft Gripper (intermediate level) or
-* Built a Pneumatic, digitally controlled system (advanced level)
-* Experimented with different materials, such as silicones, 3d printing, parchment paper and thermoadesive vynil
-* Documented the project and included all source files
+* Document the concept, sketches, references also to artistic and scientific publications
+* Make a soft robotic sample, develop the pattern for the Inflatable and draw a sketch of the air flow
+* Build a pneumatic wrist brace (basic level) or
+* Build a Soft Gripper (intermediate level) or
+* Build and document a Pneumatic, digitally controlled system , electronics schematic, electronic control and code (advanced level)
+* Experiment with different materials, such as silicones, 3d printing, parchment paper, thermoadesive vynil, bioplastic , document your achievements and unexpected outcomes
+* Upload a small video of your inflatable working
+* Integrate it into a project (extra credit)
 
 ## FAQ
 
-None yet  
+None yet
 

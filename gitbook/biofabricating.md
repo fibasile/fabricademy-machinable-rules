@@ -5,20 +5,27 @@
 None
 ### Learning outcomes
 
-* Understand the issues caused by current practices of the textile industry dyeing processes
-* Exploring material and colouring alternatives, ranging from natural dyes, using pigments and bacteria, to material biofabrication.
-* Exploring local recipes of DIY materials
+* Master techniques for natural dyeing or bacterial dyeing
+* Master techniques for growing or crafting personalised materials
+* Documentation: Anyone can go through the process and use the recipes
+* Final outcome: create a material or color chart
+* Originality - Aesthetics: Has the design been thought through and elaborated
 
 ### Have you?
 
-* Produced at least one natural dye or bacterial dye. Natural dye - modifying it’s colour and mordanting it in different ways to dye at least 2 different categories of fibers Bacterial dye - Explored dyeing with bacteria of different fibers and/or bacteria
-* Produced at least one crafted or grown material. Crafted material - explore the different recipes and understand how to adjust them based on the ingredients Grown material - explore the different recipes and understand how to adjust them based on the ingredients
-* Documented the recipes and process and if there have been changes
-* Documented the recipes and outcomes in detail, in order to be able to reproduce the material
-* Named your materials, classified them by typology and display them in a systematic order of samples.
-* Uploaded and published all your documentation
-* Submitted some of your swatches to the analog material library of your lab. (20cm *20cm aprox)
+* Produce at least one natural dye or bacterial dye.
+- Natural dye - modifying it’s colour and mordanting it in different ways to dye at least 2 different categories of fibers
+- Bacterial dye - Explored dyeing with bacteria of different fibers and/or bacteria
+
+* Produce at least one crafted or grown material
+Crafted material - explore the different recipes and understand how to adjust them based on the ingredients
+Grown material - explore the different recipes and understand how to adjust them based on the ingredients
+
+* Document your recipes, the ingredients and process and if there have been changes, document your unexpected discoveries
+* Name your materials, classify them by typology and display them in a systematic order of samples.
+* Submit some of your swatches to the analog material library of your lab. (20cm*20cm approx)
 
 ## FAQ
 
 None yet
+

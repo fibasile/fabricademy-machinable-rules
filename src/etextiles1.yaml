@@ -1,21 +1,22 @@
-unit: E-textiles and Wearables
+unit: Wearables I
 unit_id: etextiles1
-version: 2018
+version: 2019
 tasks:
-- name: E-textiles and Wearables
-  description: 
-  outcomes:
-  - Understand how we can produce soft circuits, sensors and actuators
-  - Learn how to embed them in garments, soft objects or wearables
-  - Study and learn soft-hard connections
-  - Discover necessary materials, components, tools
-  - Explore and replicate existing projects
-  checklist:
-  - Built one or more soft sensors, using different materials and techniques (hard/hard hard/soft soft/soft)
-  - Documented the sensor project and include a step by step making of as well as the readings you get using the AnalogRead of arduino
-  - Learn how to use the attiny and build a small circuit
-  - Intergate the attiny and the soft sensor into a swatch, textile using hard soft connections solutions
-  - Document your circuit on your webpage 
-  - Upload your code on your webside
+  - name: Wearables
+    description:
+    outcomes:
+      - Understand how we can produce soft circuits, sensors and actuators
+      - Learn how to embed them in garments, soft objects or wearables
+      - Study and learn soft-hard connections
+      - Discover necessary materials, components, tools
+      - Explore and replicate existing projects
+    checklist:
+      - Build at least one digital and one analogue soft sensors, using different materials and techniques.
+      - Document the sensor project as well as the readings got using the AnalogRead of Arduino
+      - Integrate the two soft sensors into one or two textile swatches using hard soft connections
+      - Document the circuit and it's schematic
+      - Document your swatches
+      - Upload a small video of the swatches functioning
+      - Integrate the swatch into a project (extra credit)
 faq: |
-    None yet
+  None yet

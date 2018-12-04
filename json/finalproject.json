@@ -3,26 +3,27 @@
     "tasks": [
         {
             "checklist": [
-                "Defined a final project concept, slide and teaser video", 
-                "Defined a final project plan in collaboration with your local instructor and mentor and the assignment of Applications and Implications", 
-                "Developed a final project which includes a combination of at least three techniques and processes covered during the course or", 
-                "Developed a final project which constitutes a significant advancement in one of the fields covered by the Fabricademy", 
-                "Published and presented your concept, slide and teaser video", 
-                "Documented and published your process and results, including all source files"
+                "MID term presentation - pitch presentation", 
+                "FINAL presentation - pitch presentation", 
+                "Report of workflow - planning, machines, processes, materials", 
+                "Report of Process: Design, Prototyping and development", 
+                "Working Prototype", 
+                "Final Project Video"
             ], 
-            "description": "", 
+            "description": "Your project is required to use at least 3 out of the 12 assignments, or advance the state of the art by presenting innovation that was not presented in class\n", 
             "name": "Final Project", 
             "outcomes": [
-                "Integrate at least 3 of the techniques and processes of the assingments into an individual original project", 
-                "Learn how to apply project management techniques", 
-                "Further research on the topics covered by the class", 
-                "Network with other students interested in similar topics", 
-                "Interact with an expert of mentor to broaden your knowledge of the state of the art", 
-                "Advance the state of the art in the field"
+                "Story telling: is the project clearly communicated and well presented", 
+                "Project management: tasks identified and programmed during project development", 
+                "Design, Prototyping and development", 
+                "Documentation: extensive documentation of design, processes and workflow", 
+                "Final outcome: two minutes project presentation", 
+                "Originality - Aesthetics: Has the design and innovation been thought through and elaborated", 
+                "Dissemination: presentation and video material"
             ]
         }
     ], 
-    "version": 2018, 
+    "version": 2019, 
     "unit": "Final Project", 
     "unit_id": "final_project"
 }

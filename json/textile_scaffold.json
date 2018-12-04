@@ -3,25 +3,26 @@
     "tasks": [
         {
             "checklist": [
-                "Used the method of concrete fabric forming to shape your fabric mold", 
-                "Used 3D modeling software to simulate your fabric deformation, laser cut pattern of fabric (advanced)", 
-                "Chose one Crystal and created a textile medium for the crystal growth", 
-                "Create a 3D mold and a textile composite", 
-                "Documented the process you followed", 
-                "Documented errors and failures", 
-                "Recorded the process in video or made a stop motion movie"
+                "Document the concept, 3D model of the piece and document the design process", 
+                "Make two samples with 2 out of the 5 techniques to make a prototype of a textile form: fabric formwork with casting, crystalization, wood-textile, resin-textile, leather molding or other", 
+                "Document the process from CAD to CAM, document how to use the CNC mill and prototype your textile composite", 
+                "Upload your 3D model and CAM file", 
+                "Document the 2 processes you have followed side by side from design to machine and hands-on making, materials you used, your mistakes, failures and achievements", 
+                "Use 3D modeling software to simulate your fabric deformation (extra credit)"
             ], 
             "description": "", 
             "name": "The Textile Scaffold", 
             "outcomes": [
-                "Understand to shape 3D forms with textiles and yarns.", 
-                "Understand the processes, machines, materials & tools to create textile composites and casts.", 
-                "Practice Crystallization", 
-                "Try concrete fabric forming techniques or alternative composite techniques"
+                "References: tutorial, links, inspiration", 
+                "Design: Sketch, 3D modeling skills, Parametric modeling skills", 
+                "Fabrication: Capable of executing from file to production workflow, from 3D modelling to 3D printing, parameters, materials", 
+                "Documentation: Anyone can go through the process and understand it", 
+                "Final outcome: is the project assembled, functioning and complete", 
+                "Originality - Aesthetics: Has the design been thought through and elaborated"
             ]
         }
     ], 
-    "version": 2018, 
+    "version": 2019, 
     "unit": "The Textile Scaffold", 
     "unit_id": "textile_scaffold"
 }

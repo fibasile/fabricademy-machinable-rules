@@ -1,26 +1,29 @@
 {
-    "faq": "None yet", 
+    "faq": "None yet\n", 
     "tasks": [
         {
             "checklist": [
-                "Documented the use of a 3D scanner to acquire a model", 
-                "Documented the process of repairing a 3D mesh", 
-                "Experimented with any of the techniques of milling, laser cutting, vacuum forming or composites", 
-                "Built and/or assembled your own mannequin", 
-                "Included all the source files in the documentation"
+                "Include some inspiration: research on artists or projects that work with the human body", 
+                "Document the use of 3D scanner and software to acquire a 3D model", 
+                "Document the process of repairing and/or manipulating a 3D mesh and slicing it.", 
+                "Create my ready to cut file for laser cutting, learn how to use the laser cutter and document the workflow and upload your 3D and 2D files", 
+                "Learn about the fab lab processes, booking system, usage, machine demos, tools and safety rules", 
+                "Build and/or assemble my mannequin, create a stop motion assembling it or stepped process", 
+                "Send one picture (HIGH RES) of my mannequin to enter the competition for the annual exhibition (extra credit)"
             ], 
             "description": "", 
             "name": "Digital Bodies", 
             "outcomes": [
-                "Learn digital tools that complement analog tools in order to design, represent, make and modify the human figure", 
-                "Get basic training for using the infrastructure of the laboratory", 
-                "Learn the safety procedures to be followed to protect yourself and the equipment", 
-                "Learn how to use software for designing and/or acquiring via scanning a human figure", 
-                "Learn how to use digital fabrication processes to produce a part or an entire human figure"
+                "References - Concept", 
+                "Design: 3D scanning , 3D file manipulation, mesh repair tools, explore 3D programs (open and closed sourced)", 
+                "Fabrication: Capable of executing from file to production workflow, from slicer to laser cutting", 
+                "Documentation: Anyone can go through the process and understand the project", 
+                "Final outcome: Is the project assembled, functioning and complete", 
+                "Originality - Aesthetics: Has the design been thought through and elaborated"
             ]
         }
     ], 
-    "version": 2018, 
+    "version": 2019, 
     "unit": "Digital Bodies", 
     "unit_id": "digital_bodies"
 }

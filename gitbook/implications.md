@@ -5,17 +5,18 @@
 None
 ### Learning outcomes
 
-* Explore  innovation at the intersection between textiles and wearables with other sectors
-* Learn about personalisation at the product, systems and service level
-* Discover actual case studies for the above
+* References: links, inspiration
+* Design: concept and service model
+* Documentation: Stakeholders analysis, Service description, Personalisation options
+* Final outcome: Is the product - service completely defined and ready to be presented to potential stakeholders
 
 ### Have you?
 
-* Created a Ultra-personalised product service systems (UPPSS) for your final project
-* Mapped the potential stakeholders
-* Added references of existing Projects and Scientific publications
-* Explored personalisation at all the different levels
-* Produced a customer-journey map and included it in your documentation.
+* Document the concept, sketches, references also to artistic and scientific publications
+* Create an Ultra-personalised product service systems (UPPSS) for your final project
+* Map the potential stakeholders
+* Explore personalisation at all the different levels
+* Interview your potential users/ target group about your concept, quantify results (extra credit)
 
 ## FAQ
 
