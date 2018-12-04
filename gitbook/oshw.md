@@ -12,7 +12,7 @@ None
 * Final outcome : Is the project assembled, functioning and complete
 * Originality - Aesthetics: Has the design been thought through and elaborated
 
-### Have you?
+### Student checklist
 
 * Research and document existing fabrication methods, machines and industries, add references and sketches of the machine and the chosen process
 * Design and document the files of the machine, machine hack or tool and fabrication - assembly process

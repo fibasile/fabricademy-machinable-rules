@@ -12,7 +12,7 @@ None
 * Final outcome: Is the project assembled, functioning and complete
 * Originality - Aesthetics: Has the design been thought through and elaborated
 
-### Have you?
+### Student checklist
 
 * Document the concept, sketches, references also to artistic and scientific publications
 * Make a soft robotic sample, develop the pattern for the Inflatable and draw a sketch of the air flow

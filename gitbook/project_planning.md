@@ -13,7 +13,7 @@ Plan and present your final project idea.
 * Final outcome: two minutes project presentation
 * Originality - Aesthetics: Has the design and innovation been thought through and elaborated
 
-### Have you?
+### Student checklist
 
 * Document the concept, sketches, references also to artistic and scientific publications
 * Create a GANTT chart (planning calendar)

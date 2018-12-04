@@ -11,7 +11,7 @@ None
 * Final outcome: create a material or color chart
 * Originality - Aesthetics: Has the design been thought through and elaborated
 
-### Have you?
+### Student checklist
 
 * Produce at least one natural dye or bacterial dye.
 - Natural dye - modifying it’s colour and mordanting it in different ways to dye at least 2 different categories of fibers

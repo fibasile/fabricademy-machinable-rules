@@ -14,7 +14,7 @@ Your project is required to use at least 3 out of the 12 assignments, or advance
 * Originality - Aesthetics: Has the design and innovation been thought through and elaborated
 * Dissemination: presentation and video material
 
-### Have you?
+### Student checklist
 
 * MID term presentation - pitch presentation
 * FINAL presentation - pitch presentation

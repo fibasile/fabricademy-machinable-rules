@@ -12,7 +12,7 @@ None
 * Final outcome: Is the project assembled, functioning and complete
 * Originality - Aesthetics : Has the design been thought through and elaborated
 
-### Have you?
+### Student checklist
 
 * Document the concept, sketches, references also to artistic and scientific publications
 * Create a swatch using an ATTiny with one input and one output, using hard-soft connection solutions and battery

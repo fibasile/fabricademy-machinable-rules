@@ -10,7 +10,7 @@ None
 * Documentation: Stakeholders analysis, Service description, Personalisation options
 * Final outcome: Is the product - service completely defined and ready to be presented to potential stakeholders
 
-### Have you?
+### Student checklist
 
 * Document the concept, sketches, references also to artistic and scientific publications
 * Create an Ultra-personalised product service systems (UPPSS) for your final project

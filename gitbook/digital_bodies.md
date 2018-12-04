@@ -12,7 +12,7 @@ None
 * Final outcome: Is the project assembled, functioning and complete
 * Originality - Aesthetics: Has the design been thought through and elaborated
 
-### Have you?
+### Student checklist
 
 * Include some inspiration: research on artists or projects that work with the human body
 * Document the use of 3D scanner and software to acquire a 3D model

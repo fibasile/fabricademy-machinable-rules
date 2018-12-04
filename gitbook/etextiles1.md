@@ -11,7 +11,7 @@ None
 * Discover necessary materials, components, tools
 * Explore and replicate existing projects
 
-### Have you?
+### Student checklist
 
 * Build at least one digital and one analogue soft sensors, using different materials and techniques.
 * Document the sensor project as well as the readings got using the AnalogRead of Arduino

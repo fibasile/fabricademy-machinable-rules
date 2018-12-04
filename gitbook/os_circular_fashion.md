@@ -12,7 +12,7 @@ None
 * Final outcome: Is the project assembled, functioning and complete
 * Originality - Aesthetics: Has the design been thought through and elaborated
 
-### Have you?
+### Student checklist
 
 * Design and prototype with paper and scissors modular configurations and locking connections. Document the paper prototypes
 * Run tests of laser cutting of your designs in fabric and document the parameters for the chosen fabric.

@@ -8,7 +8,7 @@ None
 * Learn the process and tools used to document course work
 * Acquire the necessary skills to publish projects, documentation and share the results of each assignment
 
-### Have you?
+### Student checklist
 
 * Build a documentation website describing me and my motivation for the textile-academy, including my previous work
 * Upload the documentation to my project page on class.textile-academy.org

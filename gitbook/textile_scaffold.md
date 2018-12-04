@@ -12,7 +12,7 @@ None
 * Final outcome: is the project assembled, functioning and complete
 * Originality - Aesthetics: Has the design been thought through and elaborated
 
-### Have you?
+### Student checklist
 
 * Document the concept, 3D model of the piece and document the design process
 * Make two samples with 2 out of the 5 techniques to make a prototype of a textile form: fabric formwork with casting, crystalization, wood-textile, resin-textile, leather molding or other
