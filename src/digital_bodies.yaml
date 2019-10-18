@@ -1,6 +1,6 @@
 unit: Digital Bodies
 unit_id: digital_bodies
-version: 2019
+version: 2020
 tasks:
   - name: Digital Bodies
     description:

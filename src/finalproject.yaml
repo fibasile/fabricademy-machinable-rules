@@ -1,6 +1,6 @@
 unit: Final Project
 unit_id: final_project
-version: 2019
+version: 2020
 tasks:
   - name: Final Project
     description: |

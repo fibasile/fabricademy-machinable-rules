@@ -3,16 +3,14 @@
     "tasks": [
         {
             "checklist": [
-                "Produce at least one natural dye or bacterial dye.\n- Natural dye - modifying it\u2019s colour and mordanting it in different ways to dye at least 2 different categories of fibers\n- Bacterial dye - Explored dyeing with bacteria of different fibers and/or bacteria\n", 
                 "Produce at least one crafted or grown material\nCrafted material - explore the different recipes and understand how to adjust them based on the ingredients\nGrown material - explore the different recipes and understand how to adjust them based on the ingredients\n", 
                 "Document your recipes, the ingredients and process and if there have been changes, document your unexpected discoveries", 
                 "Name your materials, classify them by typology and display them in a systematic order of samples.", 
                 "Submit some of your swatches to the analog material library of your lab. (20cm*20cm approx)"
             ], 
             "description": "", 
-            "name": "Biofabricating dyes & materials", 
+            "name": "Biofabricating  materials", 
             "outcomes": [
-                "Master techniques for natural dyeing or bacterial dyeing", 
                 "Master techniques for growing or crafting personalised materials", 
                 "Documentation: Anyone can go through the process and use the recipes", 
                 "Final outcome: create a material or color chart", 
@@ -20,7 +18,7 @@
             ]
         }
     ], 
-    "version": 2019, 
+    "version": 2020, 
     "unit": "Biofabricating dyes & materials", 
     "unit_id": "biofabricating"
 }

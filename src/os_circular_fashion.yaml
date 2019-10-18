@@ -1,6 +1,6 @@
 unit: Circular Open Source Fashion
 unit_id: os_circular_fashion
-version: 2019
+version: 2020
 tasks:
   - name: Circular Open Source Fashion
     description:

@@ -1,6 +1,6 @@
 unit: Wearables II
 unit_id: etextiles2
-version: 2019
+version: 2020
 tasks:
   - name: Wearables II
     description:

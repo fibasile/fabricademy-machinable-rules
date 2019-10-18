@@ -1,21 +1,16 @@
 # Biofabricating dyes & materials
 
-## Biofabricating dyes & materials
+## Biofabricating  materials
 
 None
 ### Learning outcomes
 
-* Master techniques for natural dyeing or bacterial dyeing
 * Master techniques for growing or crafting personalised materials
 * Documentation: Anyone can go through the process and use the recipes
 * Final outcome: create a material or color chart
 * Originality - Aesthetics: Has the design been thought through and elaborated
 
 ### Student checklist
-
-* Produce at least one natural dye or bacterial dye.
-- Natural dye - modifying it’s colour and mordanting it in different ways to dye at least 2 different categories of fibers
-- Bacterial dye - Explored dyeing with bacteria of different fibers and/or bacteria
 
 * Produce at least one crafted or grown material
 Crafted material - explore the different recipes and understand how to adjust them based on the ingredients

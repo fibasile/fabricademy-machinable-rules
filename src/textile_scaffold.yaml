@@ -1,6 +1,6 @@
 unit: The Textile Scaffold
 unit_id: textile_scaffold
-version: 2019
+version: 2020
 tasks:
   - name: The Textile Scaffold
     description:

@@ -1,6 +1,6 @@
 unit: Wearables I
 unit_id: etextiles1
-version: 2019
+version: 2020
 tasks:
   - name: Wearables
     description:
