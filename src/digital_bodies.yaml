@@ -1,23 +1,24 @@
 unit: Digital Bodies
 unit_id: digital_bodies
-version: 2020
+version: 2021
 tasks:
   - name: Digital Bodies
     description:
     outcomes:
-      - References - Concept
-      - "Design: 3D scanning , 3D file manipulation, mesh repair tools, explore 3D programs (open and closed sourced)"
+      - "References and Concept development"
+      - "Design: 3D scanning, 3D file manipulation, mesh repair tools, explore 3D programs (open and closed sourced)"
       - "Fabrication: Capable of executing from file to production workflow, from slicer to laser cutting"
-      - "Documentation: Anyone can go through the process and understand the project"
+      - "Documentation: Anyone can go through the workflow, understand it and reproduce it"
       - "Final outcome: Is the project assembled, functioning and complete"
       - "Originality - Aesthetics: Has the design been thought through and elaborated"
     checklist:
       - "Include some inspiration: research on artists or projects that work with the human body"
       - "Document the use of 3D scanner and software to acquire a 3D model"
-      - "Document the process of repairing and/or manipulating a 3D mesh and slicing it."
-      - "Create my ready to cut file for laser cutting, learn how to use the laser cutter and document the workflow and upload your 3D and 2D files"
-      - "Learn about the fab lab processes, booking system, usage, machine demos, tools and safety rules"
-      - "Build and/or assemble my mannequin, create a stop motion assembling it or stepped process"
-      - "Send one picture (HIGH RES) of my mannequin to enter the competition for the annual exhibition (extra credit)"
+      - "Document the process of repairing and/or manipulating a 3D mesh and slicing it"
+      - "Document the process of file preparation for laser cutting"
+      - "Learn how to laser cut, document the workflow including the machine settings, material type and thickness"
+      - "Upload your 3D file (STL/OBJ) and your 2D files (DXF/PDF)"
+      - "Build and/or assemble a mannequin or body parts"
+      - "Create a stop motion or step-by-step assemblying process and upload one picture (HIGH RES) of your mannequin (extra credit)"
 faq: |
   None yet

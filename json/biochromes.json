@@ -3,21 +3,25 @@
     "tasks": [
         {
             "checklist": [
-                "Produce at least one natural dye or bacterial dye.\n- Natural dye - modifying it\u2019s colour and mordanting it in different ways to dye at least 2 different categories of fibers\n- Bacterial dye - Explored dyeing with bacteria of different fibers and/or bacteria\n", 
+                "Include some inspiration: research on artists or projects that on natural/bacterial dyeing, local ingedients and resources", 
+                "Produce at least 1 natural dye on fabric, plus 1 ink or 1 pigment\n1. Natural dye - modify it\u2019s colour and mordanting it in different ways to dye at least 2 different categories of fibers\n1. Bacterial dye - Explore dyeing with bacteria of different fibers and/or bacteria\n1. Inks - Explore waterbased or ethanol based ink production and document it\n1. Pigment - Explore botanical lake pigment production and document it\n", 
                 "Document your recipes, the ingredients and process and if there have been changes, document your unexpected discoveries", 
-                "Submit some of your swatches to the analog material library of your lab. (20cm*20cm approx)"
+                "Submit some of your swatches to the analog material library of your lab (20cm x 20cm approx)"
             ], 
             "description": "", 
             "name": "Biochromes", 
             "outcomes": [
-                "Master techniques for natural dyeing or bacterial dyeing", 
+                "References and Concept development", 
+                "Master techniques for preparing and mordanting natural fibers", 
+                "Master techniques for natural dyeing (botanical or bacterial)", 
+                "Master techniques for making inks (botanical or bacterial) - (marker/water-based)", 
                 "Documentation: Anyone can go through the process and use the recipes", 
-                "Final outcome: create a color chart", 
-                "Originality - Aesthetics: Has the design been thought through and elaborated"
+                "Final outcome: Understand all the stages of color: dye, ink and pigment", 
+                "Originality - Aesthetics: Has the presentation been thought through and elaborated"
             ]
         }
     ], 
-    "version": 2020, 
+    "version": 2021, 
     "unit": "Biochromes", 
     "unit_id": "biochromes"
 }

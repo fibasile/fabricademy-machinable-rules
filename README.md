@@ -17,7 +17,7 @@ The structure follows this general model:
          outcomes: list of outcomes
          checklist: student checklist
        -..
-      faq: Markdown faq 
+      faq: Markdown faq
 
 Take a look to the provided .yaml for a full example
 
@@ -48,6 +48,15 @@ This will generate a `json` folder containing the JSON formatted files.
 To be able to run build.py you need to intsall the packages in requirements.txt
 
    pip install -r requirements.txt
+
+## Using Docker
+
+```
+docker build -t fabricademy-machinable-rules .
+
+docker run --rm -it -v ${PWD}:/src fabricademy-machinable-rules json
+docker run --rm -it -v ${PWD}:/src fabricademy-machinable-rules gitbook
+```
 
 ## Next steps
 

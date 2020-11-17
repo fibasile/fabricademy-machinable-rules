@@ -2,24 +2,24 @@
 
 ## Circular Open Source Fashion
 
-None
 ### Learning outcomes
 
 * References and Concept development
 * Design: sketches, prototypes, material choices, tests, 2D vector design software
 * Fabrication: laser cutting, workflow, assemblying, material used and leftovers
-* Documentation: Anyone can go through the process and understand it
+* Documentation: Anyone can go through the workflow, understand it and reproduce it
 * Final outcome: Is the project assembled, functioning and complete
 * Originality - Aesthetics: Has the design been thought through and elaborated
 
 ### Student checklist
 
-* Design and prototype with paper and scissors modular configurations and locking connections. Document the paper prototypes
-* Run tests of laser cutting of your designs in fabric and document the parameters for the chosen fabric.
-* Design and Document the process.
-* Laser cut the modules. Create a modular or seamless garment, showing that the connection is well-designed and holds the pull/stretch of a garment. Document the assembly process and tests.
-* Upload the open source file in pdf, in correct scale with 1-5 pictures at (https://oscircularfashion.com) (preferably in white background)
-* Submit some of the modules to the analog or digital material library of the lab. Recommended size 20cm *20cm. (extra credit)
+* Include some inspiration: research on artists or projects that work with modules and zero waste systems
+* Document, Design and prototype with paper and scissors modular configurations and interlocking connections
+* Document, Design and prototype digitally your modular configurations and interlocking connections in 2D
+* Document the process of testing and laser cutting your designs, including the machine settings, material type and thickness
+* Laser cut the modules. Create a modular or seamless garment, showing that the connection is well-designed and holds the pull/stretch. Document the assembly process and tests
+* Upload the fabrication file at (https://oscircularfashion.com). The file should be in pdf format, in correct scale accompanied by 1-5 pictures(preferably in white background)
+* Submit some of the modules to the analog or digital material library of the lab. (Recommended size 20cm x 20cm) (extra credit)
 
 ## FAQ
 

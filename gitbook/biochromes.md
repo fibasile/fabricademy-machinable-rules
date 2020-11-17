@@ -2,22 +2,27 @@
 
 ## Biochromes
 
-None
 ### Learning outcomes
 
-* Master techniques for natural dyeing or bacterial dyeing
+* References and Concept development
+* Master techniques for preparing and mordanting natural fibers
+* Master techniques for natural dyeing (botanical or bacterial)
+* Master techniques for making inks (botanical or bacterial) - (marker/water-based)
 * Documentation: Anyone can go through the process and use the recipes
-* Final outcome: create a color chart
-* Originality - Aesthetics: Has the design been thought through and elaborated
+* Final outcome: Understand all the stages of color: dye, ink and pigment
+* Originality - Aesthetics: Has the presentation been thought through and elaborated
 
 ### Student checklist
 
-* Produce at least one natural dye or bacterial dye.
-- Natural dye - modifying it’s colour and mordanting it in different ways to dye at least 2 different categories of fibers
-- Bacterial dye - Explored dyeing with bacteria of different fibers and/or bacteria
+* Include some inspiration: research on artists or projects that on natural/bacterial dyeing, local ingedients and resources
+* Produce at least 1 natural dye on fabric, plus 1 ink or 1 pigment
+1. Natural dye - modify it’s colour and mordanting it in different ways to dye at least 2 different categories of fibers
+1. Bacterial dye - Explore dyeing with bacteria of different fibers and/or bacteria
+1. Inks - Explore waterbased or ethanol based ink production and document it
+1. Pigment - Explore botanical lake pigment production and document it
 
 * Document your recipes, the ingredients and process and if there have been changes, document your unexpected discoveries
-* Submit some of your swatches to the analog material library of your lab. (20cm*20cm approx)
+* Submit some of your swatches to the analog material library of your lab (20cm x 20cm approx)
 
 ## FAQ
 

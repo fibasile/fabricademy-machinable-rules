@@ -1,5 +1,5 @@
 """Build script for machine-friendly eval rules"""
-import sys  
+import sys
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -28,7 +28,7 @@ def read_yaml(yaml_src):
     """ Read a yamls file """
     print 'Reading %s' % yaml_src
     yaml_file = open(yaml_src, 'r')
-    yaml_data = yaml.load(yaml_file.read())
+    yaml_data = yaml.full_load(yaml_file.read())
     yaml_file.close()
     return yaml_data
 
@@ -37,7 +37,8 @@ def make_task(task):
     """ Create a Markdown fragment for a task """
     task_md = UTFWriter()
     print >> task_md, '## %s\n' % task['name']
-    print >> task_md, task['description']
+    if task['description']:
+        print >> task_md, task['description']
     print >> task_md, '### Learning outcomes\n'
     for task_outcome in task['outcomes']:
         print >> task_md, '* %s' % task_outcome

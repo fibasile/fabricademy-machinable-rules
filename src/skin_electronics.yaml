@@ -1,17 +1,27 @@
 unit: Skin Electronics
 unit_id: skin_electronics
-version: 2020
+version: 2021
 tasks:
   - name: Skin Electronics
     description:
     outcomes:
-      - Understand how to implement electronics close to the body as an interface
-      - Learn how to embed electronics into the body, creating a second skin
+      - "References and Concept development"
+      - "Design: Program a microcontroller, design circuit and schematic"
+      - "Fabrication: Capable of Integrating inputs and outputs in a microcontroller project"
+      - "Documentation: Anyone can go through the process, understand it and reproduce it"
+      - "Final outcome: Is the project assembled, functioning and complete"
+      - "Originality - Aesthetics: Has the design been thought through and elaborated"
     checklist:
       - "Document the concept, sketches, references also to artistic and scientific publications"
-      - "Design a skin circuit: Build your own version of the Skin masquerade party project or Build your own version of the Twinkle Nails project"
-      - "Document the project and included all source files, and all materials used"
+      - |
+        Design a “skin-circuit”, exploring the replication of the examples bwlow or:
+        1. the Skin masquerade party project
+        1. the Twinkle Nails project
+        1. interactive tattoo
+        1. explore how to create a new skin electronics accessory.
+      - "Document the project and included all source files and all materials used"
+      - "Upload your design files and source code"
       - "Make a video with your skin electronic working"
-      - "Make a performance of your project functioning (extra credit)"
+      - "Make a short performance/concept of your project functioning (extra credit)"
 faq: |
   None yet

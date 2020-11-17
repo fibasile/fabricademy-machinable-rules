@@ -10,23 +10,27 @@ Your project is required to use at least 3 out of the 12 assignments, or advance
 * Project management: tasks identified and programmed during project development
 * Design, Prototyping and development
 * Documentation: extensive documentation of design, processes and workflow
-* Final outcome: two minutes project presentation
-* Originality - Aesthetics: Has the design and innovation been thought through and elaborated
-* Dissemination: presentation and video material
+* Final outcome: Is the project assembled, functioning and complete
+* Dissemination: Presentation and final project video
+* Originality - Aesthetics: Has the design, prototype and innovation been thought through and elaborated
 
 ### Student checklist
 
-* MID term presentation - pitch presentation
-* FINAL presentation - pitch presentation
-* Report of workflow - planning, machines, processes, materials
-* Report of Process: Design, Prototyping and development
-* Working Prototype
-* Final Project Video
+* Presentation on workflow - planning, gantt
+* Presentation on electronics and custom tools
+* Presentation on storytelling
+* MID term presentation
+* Presentation on prototyping
+* Hand out a working prototype
+* Final project presentation
+* Produce and edit your final project Video and photoshoot
+* Document your final project development including blueprints, source files, list of materials, code, project iterations and final outcome
+* Publish your project on a magazine or international platform (extra credit)
 
 ## FAQ
 
 Q: Is a final project acceptable if it is only based one or two classes of the course?
-A: Yes, but in this case the project must be a relevant and original contribution to the field, and the depth of the work should clearly be much more  than a regular assignment for that week.
-Q: Is it  possible to develop a group final project
+A: Yes, but in this case the project must be a relevant and original contribution to the field, and the depth of the work should clearly be much more than a regular assignment for that week. Multidisciplinarity is considered important in Fabricademy.
+Q: Is it possible to develop a group final project?
 A: Yes, but the individual student contribution should cover all the phases of the project and be clearly identified in the documentation. In any case it is recommended that each of the student develops a module of the project, starting from the concept to the actual realisation.
 

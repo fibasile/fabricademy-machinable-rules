@@ -1,23 +1,24 @@
-# Wearables I
+# E-textiles
 
-## Wearables
+## E-textiles
 
-None
 ### Learning outcomes
 
+* References and Concept development
 * Understand how we can produce soft circuits, sensors and actuators
-* Learn how to embed them in garments, soft objects or wearables
+* Learn how to embed electronics on fabrics
 * Study and learn soft-hard connections
 * Discover necessary materials, components, tools
 * Explore and replicate existing projects
 
 ### Student checklist
 
-* Build at least one digital and one analogue soft sensors, using different materials and techniques.
+* Build at least one digital and one analogue soft sensor, using different materials and techniques.
 * Document the sensor project as well as the readings got using the AnalogRead of Arduino
 * Integrate the two soft sensors into one or two textile swatches using hard soft connections
-* Document the circuit and it's schematic
-* Document your swatches
+* Document the circuit and its schematic
+* Document your swatches / samples
+* Upload your arduino code as text
 * Upload a small video of the swatches functioning
 * Integrate the swatch into a project (extra credit)
 
