@@ -1,0 +1,25 @@
+{
+    "faq":"None yet\n",
+    "tasks":[
+        {
+            "checklist":[
+                "Document your final project design and fabrication workflow, including the fabrication files (dxf,pdf,stl)",
+                "Illustrate the way you want to present your final project using storyboards, presentations,video or any other format suitable for your project",
+                "Setup your exhibition space and select how to present your final project prototypes",
+                "Finalize the list of materials and costs for the production of your project"
+            ],
+            "description":null,
+            "name":"PPD: Review on Storytelling & final prototype",
+            "outcomes":[
+                "References: pitches for products, awareness campaigns, process cycles",
+                "Design: storyboard / sketches / videos for assembly",
+                "Fabrication: Final project prototypes, samples, evolution of the project and exhibition format.",
+                "Final outcome: A story board and work in progress pitch that presents the project",
+                "Originality - Aesthetics: Has the storytelling been thought through and elaborated"
+            ]
+        }
+    ],
+    "version":2022,
+    "unit":"PPD: Review on Storytelling & final prototype",
+    "unit_id":"ppd-review-storytelling"
+}

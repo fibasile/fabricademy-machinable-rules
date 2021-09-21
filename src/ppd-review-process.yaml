@@ -1,0 +1,21 @@
+unit: "PPD Review on process/workflow: Electronics, Custom tools and BOM"
+unit_id: ppd-review-process
+version: 2022
+tasks:
+  - name: "PPD Review on process/workflow: Electronics, Custom tools and BOM"
+    description:
+    outcomes:
+      - "References: concept development, research, what are the fundamental steps/processes involved"
+      - "Design: sketches/preliminary designs of the tools or electronics or processes required (when possible)"
+      - "Fabrication: simple quick prototypes of the custom tools and (when possible) samples executed with them"
+      - "Final outcome: Process overview, Bill of Materials (BOM) including costs"
+      - "Originality - Aesthetics: Has the design and innovation been thought through and elaborated"
+    checklist:
+      - "Document the concept, sketches, references and the fundamental steps/processes involved"
+      - "Create a process /work flow chart (a more detailed planning calendar, including machines and steps) "
+      - "Create a material overview  and where possible including cost"
+      - "Create a quick prototype of the custom tool or electronics involved (physical, digital, collage or render)"
+      - "Make a 40´´ video pitch update of your project proposal (extra credit)"
+      - "List and (if possible) budget of all foreseen materials and machines required"
+faq: |
+  None yet

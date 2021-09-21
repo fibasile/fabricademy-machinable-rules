@@ -1,6 +1,6 @@
 unit: Biofabricating materials
 unit_id: biofabricating
-version: 2021
+version: 2022
 tasks:
   - name: Biofabricating materials
     description:
@@ -9,16 +9,16 @@ tasks:
       - "Master techniques for growing and crafting personalised materials"
       - "Documentation: Anyone can go through the process and use the recipes"
       - "Final outcome: create a material or color chart"
-      - "Originality - Aesthetics: Has the design been thought through and elaborated"
+      - "Originality - Aesthetics: Has the design been thought through and elaborated?"
     checklist:
       - "Include some inspiration: research on artists, projects, platforms that work with biomaterials, local ingedients and resources"
       - |
-        Produce at least one crafted and one grown material
-        1. Crafted material - explore the different recipes and understand how to adjust them based on the ingredients
-        1. Grown material - explore the different recipes and understand how to adjust them based on the ingredients
+        Produce at least one crafted and one grown material:
+            - Crafted material - explore the different recipes and understand how to adjust them based on the ingredients:
+            - Grown material - explore the different recipes and understand how to adjust them based on the ingredients
 
       - Document your recipes, the ingredients and process and if there have been changes, document your unexpected discoveries
       - Name your materials, classify them by typology and display them in a systematic order of samples
-      - Submit some of your swatches to the analog material library of your lab. (20cm x 20cm approx)
+      - Submit some of your swatches to the analog material library of your lab. (20cm x 20cm approx.)
 faq: |
   None yet

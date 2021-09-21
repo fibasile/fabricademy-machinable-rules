@@ -1,6 +1,6 @@
 unit: Computational Couture
 unit_id: computational
-version: 2021
+version: 2022
 tasks:
   - name: Computational Couture
     description:
@@ -10,7 +10,7 @@ tasks:
       - "Fabrication: Capable of executing from file to production workflow, from 3D modelling to 3D printing, parameters, materials"
       - "Documentation: Anyone can go through the process, understand it and reproduce it"
       - "Final outcome: Create a series of samples/swatches of 3D as fabric or on fabrics and a 3D parametric model."
-      - "Originality - Aesthetics: Has the design been thought through and elaborated"
+      - "Originality - Aesthetics: Has the design been thought through and elaborated?"
     checklist:
       - "Document the concept, sketches, references also to artistic and scientific publications on 3D printing and parametric modeling"
       - "Design a parametric model using Grasshopper3D and upload the rhino file + grasshopper files"
@@ -20,5 +20,5 @@ tasks:
       - "Upload your stl file"
       - "Submit some of your swatches to the analog material library of your lab. Size 20cm x 20cm approx (extra credit)"
 faq: |
-  Q Is it mandatory to use Grasshopper3D?
+  Q. Is it mandatory to use Grasshopper3D?
   A. As this is one of the standard tools, that have created a large community of users and libraries around it, it is strongly recommended to try this software. But other parametric packages such as Solidworks, Blender, Autodesk Dynamo / Revit are acceptable.

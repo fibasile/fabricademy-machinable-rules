@@ -1,30 +1,30 @@
 {
-    "faq": "None yet\n", 
-    "tasks": [
+    "faq":"None yet\n",
+    "tasks":[
         {
-            "checklist": [
-                "Include some inspiration: research on artists or projects that work with the human body", 
-                "Document the use of 3D scanner and software to acquire a 3D model", 
-                "Document the process of repairing and/or manipulating a 3D mesh and slicing it", 
-                "Document the process of file preparation for laser cutting", 
-                "Learn how to laser cut, document the workflow including the machine settings, material type and thickness", 
-                "Upload your 3D file (STL/OBJ) and your 2D files (DXF/PDF)", 
-                "Build and/or assemble a mannequin or body parts", 
+            "checklist":[
+                "Include some inspiration: research on artists or projects that work with the human body",
+                "Document the use of 3D scanner and software to acquire a 3D model",
+                "Document the process of repairing and/or manipulating a 3D mesh and slicing it",
+                "Document the process of file preparation for laser cutting",
+                "Learn how to laser cut, document the workflow including the machine settings, material type and thickness",
+                "Upload your 3D file (STL/OBJ) and your 2D files (DXF/PDF)",
+                "Build and/or assemble a mannequin or body parts",
                 "Create a stop motion or step-by-step assemblying process and upload one picture (HIGH RES) of your mannequin (extra credit)"
-            ], 
-            "description": "", 
-            "name": "Digital Bodies", 
-            "outcomes": [
-                "References and Concept development", 
-                "Design: 3D scanning, 3D file manipulation, mesh repair tools, explore 3D programs (open and closed sourced)", 
-                "Fabrication: Capable of executing from file to production workflow, from slicer to laser cutting", 
-                "Documentation: Anyone can go through the workflow, understand it and reproduce it", 
-                "Final outcome: Is the project assembled, functioning and complete", 
+            ],
+            "description":null,
+            "name":"Digital Bodies",
+            "outcomes":[
+                "References and Concept development",
+                "Design: 3D scanning, 3D file manipulation, mesh repair tools, explore 3D programs (open and closed sourced)",
+                "Fabrication: Capable of executing from file to production workflow, from slicer to laser cutting",
+                "Documentation: Anyone can go through the workflow, understand it and reproduce it",
+                "Final outcome: Is the project assembled, functioning and complete",
                 "Originality - Aesthetics: Has the design been thought through and elaborated"
             ]
         }
-    ], 
-    "version": 2021, 
-    "unit": "Digital Bodies", 
-    "unit_id": "digital_bodies"
+    ],
+    "version":2022,
+    "unit":"Digital Bodies",
+    "unit_id":"digital_bodies"
 }

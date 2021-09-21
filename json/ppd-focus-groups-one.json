@@ -1,0 +1,28 @@
+{
+    "faq":"None yet\n",
+    "tasks":[
+        {
+            "checklist":[
+                "Create an overview of your research, process or detailed mind map for receiving feedback",
+                "Presence / Introduce your concept to the mentor",
+                "Document the feedback, additional / suggested concepts, references and new findings",
+                "Hands-on research (when possible) as follow up of the feedback session",
+                "Create a quick prototype (physical, digital, collage or render)",
+                "List and (if possible) budget of all foreseen materials and machines required"
+            ],
+            "description":null,
+            "name":"PPD: Focus Groups - Mentoring sessions",
+            "outcomes":[
+                "Presence: Actively attending the mentoring sessions",
+                "References: document notes/feedback from the Focus Groups in relation to the project topic",
+                "Design: sketches/preliminary designs of the tools or electronics or processes required (when possible)",
+                "Fabrication: simple quick prototypes of the custom tools (when possible) and/or their application",
+                "Final outcome: Iterations and advances of the final project development ",
+                "Originality - Aesthetics: Has the design and innovation been thought through and elaborated"
+            ]
+        }
+    ],
+    "version":2022,
+    "unit":"PPD: Focus Groups - Mentoring sessions",
+    "unit_id":"ppd-focus-groups-one"
+}

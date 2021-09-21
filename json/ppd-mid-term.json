@@ -1,0 +1,26 @@
+{
+    "faq":"None yet\n",
+    "tasks":[
+        {
+            "checklist":[
+                "Update your webpage with the latest concept, sketches, references and the fundamental steps/processes involved for your final project",
+                "Create a presentation and pitch for your final project presentation",
+                "Show a prototype of the tool, process, electronics, etc  involved (physical, digital, collage or render)",
+                "Make a 40\u00b4\u00b4 video pitch update of your project proposal (extra credit)",
+                "Upload you fabrication files ( dxf, stl, pdf)"
+            ],
+            "description":null,
+            "name":"PPD: Mid Term Presentations",
+            "outcomes":[
+                "References: 5W, your project statement and inspirations. What are you trying to solve",
+                "Design: first prototypes / designs / tools / electronics / processes required ",
+                "Fabrication: your fabrication workflow and fabrication files",
+                "Final outcome: Presentation of the project\u2019s research and production as of today",
+                "Originality - Aesthetics: Has the design and innovation been thought through and elaborated"
+            ]
+        }
+    ],
+    "version":2022,
+    "unit":"PPD: Mid Term Presentations",
+    "unit_id":"ppd-mid-term"
+}

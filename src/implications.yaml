@@ -1,6 +1,6 @@
 unit: Implications and applications
 unit_id: implications
-version: 2021
+version: 2022
 tasks:
   - name: Implications and applications
     description:
@@ -9,7 +9,7 @@ tasks:
       - "Design: Understand how to develop a concept and service model"
       - "Documentation: Stakeholders analysis, Service description, Personalisation options"
       - "Final outcome: The product/service/experience is defined and ready to be presented to potential stakeholders"
-      - "Originality - Aesthetics: Has the proposal been thought through and elaborated"
+      - "Originality - Aesthetics: Has the proposal been thought through and elaborated?"
     checklist:
       - "Document the concept, sketches, references also to artistic and scientific publications"
       - "Create an Ultra-personalised product service system (UPPSS) for your final project proposal"

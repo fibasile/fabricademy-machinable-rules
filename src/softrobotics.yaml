@@ -1,6 +1,6 @@
 unit: Soft Robotics
 unit_id: soft-robotics
-version: 2021
+version: 2022
 tasks:
   - name: Soft Robotics
     description:
@@ -10,15 +10,15 @@ tasks:
       - "Fabrication: Capable of executing from file to production workflow, molding and casting, vinylcutting, laser cutting"
       - "Documentation: Anyone can go through the process, understand it and reproduce it"
       - "Final outcome: Is the project assembled, functioning and complete"
-      - "Originality - Aesthetics: Has the design been thought through and elaborated"
+      - "Originality - Aesthetics: Has the design been thought through and elaborated?"
     checklist:
-      - "Document the concept, sketches, references also to artistic and scientific publications"
+      - "Document the concept, sketches, references also to artistic and scientific publications?"
       - |
-        Make a soft robotic sample, develop the pattern for the Inflatable and draw a sketch of the air flow
-        1. Build a pneumatic wrist brace (basic level) or
-        1. Build a Soft Gripper (intermediate level) or
-        1. Build and document a Pneumatic, digitally controlled system, electronics schematic, electronic control and code (advanced level)
-        1. Design your own version of an inflatable / soft robot
+        Make a soft robotic sample, develop the pattern for the Inflatable and draw a sketch of the air flow:
+            - build a pneumatic wrist brace (basic level) or
+            - build a Soft Gripper (intermediate level) or
+            - build and document a Pneumatic, digitally controlled system, electronics schematic, electronic control and code (advanced level)
+            - design your own version of an inflatable / soft robot
       - "Experiment with different materials, such as silicones, 3d printing, parchment paper, thermoadesive vynil, TPU fabrics, bioplastic, document your achievements and unexpected outcomes"
       - "Make a small video of your inflatable/soft robot working"
       - "Upload your digital design files (if any)"

@@ -1,8 +1,8 @@
-unit: Introduction
+unit: State of the art, project management and documentation
 unit_id: introduction
-version: 2021
+version: 2022
 tasks:
-  - name: Introduction
+  - name: Project management and documentation
     description:
     outcomes:
       - Learn the process and tools used to document course work

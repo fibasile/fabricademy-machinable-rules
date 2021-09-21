@@ -1,6 +1,6 @@
 unit: Digital Bodies
 unit_id: digital_bodies
-version: 2021
+version: 2022
 tasks:
   - name: Digital Bodies
     description:

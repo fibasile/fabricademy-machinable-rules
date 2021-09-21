@@ -1,29 +1,29 @@
 {
-    "faq": "None yet\n", 
-    "tasks": [
+    "faq":"None yet\n",
+    "tasks":[
         {
-            "checklist": [
-                "Document the concept, sketches, references also to artistic and scientific publications", 
-                "Create a swatch/sample using an ATTiny/Arduino/Adafruit with one input and one output, using hard-soft connection solutions and battery", 
-                "Create 2 actuator swatches and test them with the Arduino or ATTiny, chosing from examples such as:\n  1. motors / mini vibration\n  1. leds / neopixels\n  1. flip dot / electromagnet\n  1. heat pad / with thermochromic coating\n  1. speaker / mp3 player\n  1. SMA (shape memory alloy)\n", 
-                "Learn how to program an Arduino/ATTiny/Adrafruit, documenting your process, the libraries added, power requirements and source code", 
-                "Document the schematic and circuit", 
-                "Upload a small video of your object working", 
+            "checklist":[
+                "Document the concept, sketches, references also to artistic and scientific publications",
+                "Create a swatch/sample using an ATTiny/Arduino/Adafruit with one input and one output, using hard-soft connection solutions and battery",
+                "Create 2 actuator swatches and test them with the Arduino or ATTiny, chosing from examples such as:\n    - motors / mini vibration\n    - leds / neopixels\n    - flip dot / electromagnet\n    - heat pad / with thermochromic coating\n    - speaker / mp3 player\n    - SMA (shape memory alloy)\n",
+                "Learn how to program an Arduino/ATTiny/Adrafruit, documenting your process, the libraries added, power requirements and source code",
+                "Document the schematic and circuit",
+                "Upload a small video of your object working",
                 "Integrate it to a project (extra credit)"
-            ], 
-            "description": "", 
-            "name": "Wearables", 
-            "outcomes": [
-                "References and Concept development", 
-                "Design: program a microcontroller, design circuit and schematic", 
-                "Fabrication: Integrate inputs and outputs in a microcontroller wearable project", 
-                "Documentation: Anyone can go through the process, understand it and reproduce it", 
-                "Final outcome: Assembled project, functioning and complete", 
-                "Originality - Aesthetics: Has the design been thought through and elaborated"
+            ],
+            "description":null,
+            "name":"Wearables",
+            "outcomes":[
+                "References and Concept development",
+                "Design: program a microcontroller, design circuit and schematic",
+                "Fabrication: Integrate inputs and outputs in a microcontroller wearable project",
+                "Documentation: Anyone can go through the process, understand it and reproduce it",
+                "Final outcome: Assembled project, functioning and complete",
+                "Originality - Aesthetics: Has the design been thought through and elaborated?"
             ]
         }
-    ], 
-    "version": 2021, 
-    "unit": "Wearables", 
-    "unit_id": "wearables"
+    ],
+    "version":2022,
+    "unit":"Wearables",
+    "unit_id":"wearables"
 }
