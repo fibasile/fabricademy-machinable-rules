@@ -1,8 +1,8 @@
-unit: "PPD: Focus Groups - Mentoring sessions"
+unit: "PPD Focus Groups - Mentoring sessions"
 unit_id: ppd-focus-groups-one
 version: 2022
 tasks:
-  - name: "PPD: Focus Groups - Mentoring sessions"
+  - name: "PPD Focus Groups - Mentoring sessions"
     description:
     outcomes:
       - "Presence: Actively attending the mentoring sessions"

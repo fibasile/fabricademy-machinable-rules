@@ -1,8 +1,8 @@
-unit: "PPD: Mid Term Presentations"
+unit: "PPD Mid Term Presentations"
 unit_id: ppd-mid-term
 version: 2022
 tasks:
-  - name: "PPD: Mid Term Presentations"
+  - name: "PPD Mid Term Presentations"
     description:
     outcomes:
       - "References: 5W, your project statement and inspirations. What are you trying to solve"

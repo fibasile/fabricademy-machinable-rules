@@ -1,8 +1,8 @@
-unit: "PPD Review on process/workflow: Electronics, Custom tools and BOM"
+unit: "PPD Review on process/workflow"
 unit_id: ppd-review-process
 version: 2022
 tasks:
-  - name: "PPD Review on process/workflow: Electronics, Custom tools and BOM"
+  - name: "PPD Review on process/workflow"
     description:
     outcomes:
       - "References: concept development, research, what are the fundamental steps/processes involved"
