@@ -1,6 +1,7 @@
 unit: Open Source Hardware - from fibers to fabrics
 unit_id: oshw
-version: 2022
+version: 2023
+date: "2022-11-22"
 tasks:
   - name: Open Source Hardware - from fibers to fabrics
     description:

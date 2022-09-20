@@ -1,6 +1,7 @@
 unit: Open Source Circular Fashion
 unit_id: os_circular_fashion
-version: 2022
+version: 2023
+date: "2022-10-04"
 tasks:
   - name: Open Source Circular Fashion
     description:

@@ -1,6 +1,7 @@
 unit: Biofabricating materials
 unit_id: biofabricating
-version: 2022
+version: 2023
+date: "2022-10-25"
 tasks:
   - name: Biofabricating materials
     description:
@@ -14,7 +15,7 @@ tasks:
       - "Include some inspiration: research on artists, projects, platforms that work with biomaterials, local ingedients and resources"
       - |
         Produce at least one crafted and one grown material:
-            - Crafted material - explore the different recipes and understand how to adjust them based on the ingredients
+            - Crafted material - explore the different recipes and understand how to adjust them based on the ingredients:
             - Grown material - explore the different recipes and understand how to adjust them based on the ingredients
 
       - Document your recipes, the ingredients and process and if there have been changes, document your unexpected discoveries

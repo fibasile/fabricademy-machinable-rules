@@ -1,6 +1,7 @@
 unit: State of the art, project management and documentation
 unit_id: introduction
-version: 2022
+version: 2023
+date: "2022-09-20"
 tasks:
   - name: Project management and documentation
     description:

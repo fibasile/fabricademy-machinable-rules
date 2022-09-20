@@ -1,6 +1,7 @@
 unit: Computational Couture
 unit_id: computational
-version: 2022
+version: 2023
+date: "2022-11-01"
 tasks:
   - name: Computational Couture
     description:
@@ -20,5 +21,5 @@ tasks:
       - "Upload your stl file"
       - "Submit some of your swatches to the analog material library of your lab. Size 20cm x 20cm approx (extra credit)"
 faq: |
-  Q. Is it mandatory to use Grasshopper3D?
-  A. As this is one of the standard tools, that have created a large community of users and libraries around it, it is strongly recommended to try this software. But other parametric packages such as Solidworks, Blender, Autodesk Dynamo / Revit are acceptable.
+  Q: Is it mandatory to use Grasshopper3D?
+  A: As this is one of the standard tools, that have created a large community of users and libraries around it, it is strongly recommended to try this software. But other parametric packages such as Solidworks, Blender, Autodesk Dynamo / Revit are acceptable.

@@ -1,6 +1,7 @@
 unit: Soft Robotics
 unit_id: soft-robotics
-version: 2022
+version: 2023
+date: "2022-12-06"
 tasks:
   - name: Soft Robotics
     description:

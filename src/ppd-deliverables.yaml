@@ -1,0 +1,23 @@
+unit: "PPD Deliverables"
+unit_id: ppd-deliverables
+version: 2023
+date: "2023-02-01"
+tasks:
+  - name: "PPD Deliverables"
+    description:
+    outcomes:
+      - "GANTT : sketch of a project planning and first Gantt chart"
+      - "BoM: Bill of Materials (BOM) necessary to reproduce the project, including costs and links were possible"
+      - "Showcase: Collection of evolving and work in progress slide shows, ppts or presentations about the project"
+      - "Story board: draft and sketches of a story telling script for video production"
+      - "Fabrication files: all necessary files for project production are collected here"
+      - "Tutorials: Collection of tutorials, how-tos generated during the research process."
+    checklist:
+      - "Create a GANTT chart (planning calendar)"
+      - "List and (if possible) budget of all foreseen materials and machines required"
+      - "Upload all sets of slides produced during the various presentations"
+      - "Upload story board drawings"
+      - "Upload all necessary files"
+      - "Update how-tos generated"
+faq: |
+  None yet
