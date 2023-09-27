@@ -1,13 +1,13 @@
 unit: State of the art, project management and documentation
 unit_id: introduction
-version: 2023
-date: "2022-09-20"
+version: 2024
+date: "2023-09-19"
 tasks:
   - name: Project management and documentation
     description:
     outcomes:
-      - Learn the process and tools used to document course work
-      - Acquire the necessary skills to publish projects, documentation and share the results of each assignment
+      - "Research skills: Learn the process and tools used to document course work"
+      - "Design & process skills: Acquire the necessary skills to publish projects, documentation and share the results of each assignment"
     checklist:
       - Build a documentation website describing you and your motivation for the textile-academy, including your previous work
       - Upload the documentation to your project page on class.textile-academy.org
@@ -16,4 +16,8 @@ tasks:
       - Learn about the fab lab processes, booking system, usage, machine demos, tools and safety rules
       - Customize your website and document how you did it (extra credit)
 faq: |
-  None yet
+  Q: Should be all the files uploaded to the GitLab, or can I use Drive, Dropbox instead?
+  A: Everything should be uploaded into GitLab except the bigger files - when a file is larger than 10 MB. 
+      (FYI: Files hosted externally have the risk of being deleted/lost long term if external accounts are not maintained.)
+      Be sure that all the important content (presentations, design and fabrication files) necessary for replate your final project/assignment is in GitLab.
+

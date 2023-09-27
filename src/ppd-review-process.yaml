@@ -1,16 +1,15 @@
 unit: "PPD Process Development"
 unit_id: ppd-review-process
-version: 2023
-date: "2023-01-15"
+version: 2024
+date: "2024-01-15"
 tasks:
   - name: "PPD Process Development"
     description:
     outcomes:
-      - "References: concept development / ideation, research, references to examples of fundamental processes necessary"
-      - "Mentoring: document notes/feedback from the Focus Groups in relation to the project topic"
-      - "Design & Fabrication: preliminary designs (including files) & prototypes of the product, tools, electronics or processes required"
-      - "Final outcome: Clear process development overview, step by step evolution of the design and fabrication process"
-      - "Originality - Aesthetics: Has the design and innovation been thought through and elaborated"
+      - "Research skills: the participant researched via concept development / ideation, research, references to examples of fundamental processes necessary"
+      - "Design & Fabrication skills: the participant learnt through preliminary designs (including files) & prototypes of the product, tools, electronics or processes required"
+      - "Process skills: the participant is able to present process development overview, step by step evolution of the design and fabrication process"
+      - "Originality: Has the design and innovation been thought through and elaborated"
     checklist:
       - "Document the concept, sketches, references and the fundamental steps/processes involved"
       - "Create a process /work flow chart (a more detailed planning calendar, including machines and steps)"
@@ -18,4 +17,5 @@ tasks:
       - "Upload all necessary files"
 
 faq: |
-  None yet
+  Q: If I change my project concept during the second phase - do I have to redo all steps of the concept and process development? 
+  A: No, you can simply explain the evolution of your work.

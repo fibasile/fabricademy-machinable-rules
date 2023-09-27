@@ -1,17 +1,17 @@
 unit: Digital Bodies
 unit_id: digital_bodies
-version: 2023
-date: "2022-09-27"
+version: 2024
+date: "2023-09-26"
 tasks:
   - name: Digital Bodies
     description:
     outcomes:
-      - "References and Concept development"
-      - "Design: 3D scanning, 3D file manipulation, mesh repair tools, explore 3D programs (open and closed sourced)"
-      - "Fabrication: Capable of executing from file to production workflow, from slicer to laser cutting"
-      - "Documentation: Anyone can go through the workflow, understand it and reproduce it"
-      - "Final outcome: Is the project assembled, functioning and complete"
-      - "Originality - Aesthetics: Has the design been thought through and elaborated"
+      - "Research skills: the participant has acquired knowledge through references and Concept development"
+      - "Design skills: the participants has acquired knowledge on 3D scanning and modelling, mesh repair or manipulation"
+      - "Fabrication skills: the participant is capable of executing from file to production workflow, from slicer to laser cutting"
+      - "Process skills: Anyone can go through the workflow, understand it and reproduce it"
+      - "Final outcome: The assignment is assembled and either complete or tested"
+      - "Originality: Has the design been thought through and elaborated"
     checklist:
       - "Include some inspiration: research on artists or projects that work with the human body"
       - "Document the use of 3D scanner and software to acquire a 3D model"
@@ -22,4 +22,5 @@ tasks:
       - "Build and/or assemble a mannequin or body parts"
       - "Create a stop motion or step-by-step assemblying process and upload one picture (HIGH RES) of your mannequin (extra credit)"
 faq: |
-  None yet
+  Q: Can I upload the big `.stl` files obtained from the scanning?
+  A: You can create an account at https://sketchfab.com/ and/or https://cults3d.com/en

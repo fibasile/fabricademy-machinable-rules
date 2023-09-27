@@ -1,15 +1,15 @@
 unit: Textile Scaffold
 unit_id: textile_scaffold
-version: 2023
-date: "2022-11-15"
+version: 2024
+date: "2023-11-14"
 tasks:
   - name: Textile Scaffold
     description:
     outcomes:
-      - "References and Concept development"
-      - "Design: Sketch, 3D modeling skills, mould design"
-      - "Fabrication: Capable of executing from file to production workflow, from 3D modelling to 3D milling and composite making, lasercutting, crystal growing, concrete casting"
-      - "Documentation: Anyone can go through the process, understand it and reproduce it"
+      - "Research skills: the participant has acquired knowledge through references and Concept development"
+      - "Design skills: the participant has learnt through sketches, 3D modeling skills, mould design"
+      - "Fabrication skills: the participant is able of executing from file to production workflow, through 3D modelling, 3D milling (optional) or lasercutting, crystal growing or casting"
+      - "Process skills: Anyone can go through the process, understand it and reproduce it"
       - "Final outcome: Various samples created using different techniques"
       - "Originality - Aesthetics: Has the design been thought through and elaborated?"
     checklist:
@@ -27,4 +27,6 @@ tasks:
       - "Document at least 2 processes from design to prototyping, fabrication, materials used, document your achievements and unexpected outcomes"
       - "Make a stop motion of your crystal growth or use 3D modeling software to simulate your design (extra credit)"
 faq: |
-  None yet
+  Q: Is the use of the CNC mandatory? (not sure about this:)
+  A: It is mandatory to digitally fabricate a 3d mold, through 2d/3d design, if you have access to a cnc milling machine we recommend you fabricate through cnc milling, otherwise lasercutting and/or 3d printing.  
+

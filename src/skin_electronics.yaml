@@ -1,17 +1,17 @@
 unit: Skin Electronics
 unit_id: skin_electronics
-version: 2023
-date: "2022-12-13"
+version: 2024
+date: "2023-12-12"
 tasks:
   - name: Skin Electronics
     description:
     outcomes:
-      - "References and Concept development"
-      - "Design: Program a microcontroller, design circuit and schematic"
-      - "Fabrication: Capable of Integrating inputs and outputs in a microcontroller project"
-      - "Documentation: Anyone can go through the process, understand it and reproduce it"
-      - "Final outcome: Is the project assembled, functioning and complete"
-      - "Originality - Aesthetics: Has the design been thought through and elaborated?"
+      - "Research skills: the participant has acquired knowledge through references and concept development"
+      - "Design skills: the participant learnt to program a microcontroller, design circuit and schematic"
+      - "Fabrication skills: the participant is able of integrating inputs and outputs in a microcontroller project"
+      - "Process skills: Anyone can go through the process, understand it and reproduce it"
+      - "Final outcome: Is the assignment is assembled, functioning or tested"
+      - "Originality: Has the design been thought through and elaborated?"
     checklist:
       - "Document the concept, sketches, references also to artistic and scientific publications"
       - |
@@ -25,4 +25,10 @@ tasks:
       - "Make a video with your skin electronic working"
       - "Make a short performance/concept of your project functioning (extra credit)"
 faq: |
-  None yet
+  Q: How is this different from wearables?
+  A: For skin electronics the circuit should be a wearable placed on the skin (mask, hair, tattoo, patch, glove, nails)
+  Q: Do I need to use a microcontroller?
+  A: Yes, you should use a small microcontroller  that can be hidden - such as ATtiny, gemma or other similar 
+  Q: Can it be connected to a power supply or computer?
+  A: No, your wearables should be powered by battery.
+

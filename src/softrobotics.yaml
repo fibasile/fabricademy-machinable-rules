@@ -1,17 +1,17 @@
 unit: Soft Robotics
 unit_id: soft-robotics
-version: 2023
-date: "2022-12-06"
+version: 2024
+date: "2023-12-05"
 tasks:
   - name: Soft Robotics
     description:
     outcomes:
-      - "References and Concept development"
-      - "Design: Sketch, 2D and 3D modeling, Parametric modeling and electronic skills, simulation"
-      - "Fabrication: Capable of executing from file to production workflow, molding and casting, vinylcutting, laser cutting"
+      - "Research skills: the participant has acquired knowledge through references and Concept development"
+      - "Design skills: the participant has learnt through sketches, 2D and 3D modeling, Parametric modeling and electronic skills, simulation"
+      - "Fabrication skills: the participant is able of executing from file to production workflow, molding and casting, vinylcutting, laser cutting"
       - "Documentation: Anyone can go through the process, understand it and reproduce it"
       - "Final outcome: Is the project assembled, functioning and complete"
-      - "Originality - Aesthetics: Has the design been thought through and elaborated?"
+      - "Originality: Has the design been thought through and elaborated?"
     checklist:
       - "Document the concept, sketches, references also to artistic and scientific publications?"
       - |

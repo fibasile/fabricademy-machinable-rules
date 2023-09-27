@@ -1,7 +1,7 @@
 unit: "PPD Final Presentation"
 unit_id: ppd-final-presentation
-version: 2023
-date: "2023-03-01"
+version: 2024
+date: "2024-03-01"
 tasks:
   - name: "PPD Final presentation"
     description: |
@@ -24,5 +24,4 @@ tasks:
 faq: |
   Q: Is a final project acceptable if it is only based one or two classes of the course?
   A: Yes, but in this case the project must be a relevant and original contribution to the field, and the depth of the work should clearly be much more than a regular assignment for that week. Multidisciplinarity is considered important in Fabricademy.
-  Q: Is a final project acceptable if it is only based one or two classes of the course?
-  A: Yes, but the individual student contribution should cover all the phases of the project and be clearly identified in the documentation. In any case it is recommended that each of the student develops a module of the project, starting from the concept to the actual realisation.
+      Yes, but the individual student contribution should cover all the phases of the project and be clearly identified in the documentation. In any case it is recommended that each of the student develops a module of the project, starting from the concept to the actual realisation.

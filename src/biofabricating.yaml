@@ -1,16 +1,16 @@
 unit: Biofabricating materials
 unit_id: biofabricating
-version: 2023
-date: "2022-10-25"
+version: 2024
+date: "2023-10-24"
 tasks:
   - name: Biofabricating materials
     description:
     outcomes:
-      - "References and Concept development"
-      - "Master techniques for growing and crafting personalised materials"
-      - "Documentation: Anyone can go through the process and use the recipes"
-      - "Final outcome: create a material or color chart"
-      - "Originality - Aesthetics: Has the design been thought through and elaborated?"
+      - "Research skills: the participant has acquired knowledge through references and Concept development"
+      - "Technical skills: Master techniques for growing and crafting personalised materials"
+      - "Process skills: Anyone can go through the process, compare and explore the recipes"
+      - "Final outcome: create a material chart"
+      - "Originality: Has the design been thought through and elaborated?"
     checklist:
       - "Include some inspiration: research on artists, projects, platforms that work with biomaterials, local ingedients and resources"
       - |

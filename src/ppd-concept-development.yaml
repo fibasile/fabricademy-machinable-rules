@@ -1,17 +1,17 @@
 unit: "PPD Concept Development"
 unit_id: ppd-concept-development
-version: 2023
-date: "2023-01-01"
+version: 2024
+date: "2024-01-01"
 tasks:
   - name: "PPD Concept Development"
     description:
     outcomes:
-      - "References: concept development, research, where does the project innovate"
-      - "Design: mood board, sketches/preliminary designs"
-      - "Documentation: Who, What, When, Where, Why"
-      - "Fabrication: simple quick prototypes or (material) samples if coherent"
+      - "Research skills: the participant has acquired knowledge through references: concept development, research, where does the project innovate"
+      - "Design skills: the participant has learnt through making a mood board, sketches/preliminary designs"
+      - "Process skills: the participant is able to define their project in Who, What, When, Where, Why"
+      - "Fabrication skills: the participant leant via simple quick prototypes or (material) samples"
       - "Final outcome: Personal Final Project page, sketch of project planning & first Gantt chart"
-      - "Originality - Aesthetics: Has the design and innovation been thought through and elaborated?"
+      - "Originality: Has the design and innovation been thought through and elaborated?"
 
     checklist:
       - "Set up your final project page, document the concept, sketches, artistic and scientific references"

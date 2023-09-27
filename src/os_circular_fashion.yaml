@@ -1,24 +1,24 @@
 unit: Open Source Circular Fashion
 unit_id: os_circular_fashion
-version: 2023
-date: "2022-10-04"
+version: 2024
+date: "2023-10-03"
 tasks:
   - name: Open Source Circular Fashion
     description:
     outcomes:
-      - "References and Concept development"
-      - "Design: sketches, prototypes, material choices, tests, 2D vector design software"
-      - "Fabrication: laser cutting, workflow, assemblying, material used and leftovers"
-      - "Documentation: Anyone can go through the workflow, understand it and reproduce it"
-      - "Final outcome: Is the project assembled, functioning and complete"
-      - "Originality - Aesthetics: Has the design been thought through and elaborated?"
+      - "Research skills: the participant has acquired knowledge through references and concept development"
+      - "Design skills: the participant has learnt through sketches & prototypes, material choices, 2D vector design"
+      - "Fabrication skills: the participant acquired skills necessary for laser cutting, digital workflow, assemblying, material used and leftovers"
+      - "Process skills: Anyone can go through the workflow, understand it and reproduce it"
+      - "Final outcome: The assignment is assembled and either complete or tested"
+      - "Originality: Has the design been thought through and elaborated?"
     checklist:
       - "Include some inspiration: research on artists or projects that work with modules and zero waste systems"
       - "Document, Design and prototype with paper and scissors modular configurations and interlocking connections"
       - "Document, Design and prototype digitally your modular configurations and interlocking connections in 2D"
       - "Document the process of testing and laser cutting your designs, including the machine settings, material type and thickness"
       - "Laser cut the modules. Create a modular or seamless garment, showing that the connection is well-designed and holds the pull/stretch. Document the assembly process and tests"
-      - "Upload the fabrication file at [](https://oscircularfashion.com). The file should be in pdf format, in correct scale accompanied by 1-5 pictures(preferably in white background)"
+      - "Upload the fabrication PDF file at [oscircularfashion.com](https://oscircularfashion.com), in 1:1 scale accompanied by 1-5 pictures (preferably in white background)"
       - "Submit some of the modules to the analog or digital material library of the lab. (Recommended size 20cm x 20cm) (extra credit)"
 faq: |
   None yet

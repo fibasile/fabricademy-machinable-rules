@@ -1,17 +1,17 @@
 unit: Wearables
 unit_id: wearables
-version: 2023
-date: "2022-11-08"
+version: 2024
+date: "2023-11-07"
 tasks:
   - name: Wearables
     description:
     outcomes:
-      - "References and Concept development"
-      - "Design: program a microcontroller, design circuit and schematic"
-      - "Fabrication: Integrate inputs and outputs in a microcontroller wearable project"
-      - "Documentation: Anyone can go through the process, understand it and reproduce it"
+      - "Research skills: the participant has acquired knowledge through references and Concept development"
+      - "Design skills: the participant has learnt by programming a microcontroller, design a circuit and schematic"
+      - "Fabrication skills: the participant acquired skills necessary to integrate inputs and outputs in a microcontroller wearable project"
+      - "Process skills: Anyone can go through the process, understand it and reproduce it"
       - "Final outcome: Assembled project, functioning and complete"
-      - "Originality - Aesthetics: Has the design been thought through and elaborated?"
+      - "Originality: Has the design been thought through and elaborated?"
     checklist:
       - "Document the concept, sketches, references also to artistic and scientific publications"
       - "Create a swatch/sample using an ATTiny/Arduino/Adafruit with one input and one output, using hard-soft connection solutions and battery"

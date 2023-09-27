@@ -1,17 +1,17 @@
 unit: Open Source Hardware - from fibers to fabrics
 unit_id: oshw
-version: 2023
-date: "2022-11-22"
+version: 2024
+date: "2023-11-21"
 tasks:
   - name: Open Source Hardware - from fibers to fabrics
     description:
     outcomes:
-      - "References and Concept development"
-      - "Design: sketch, 3D modeling, electronics"
-      - "Fabrication: Capable of executing from file to production workflow, from 3D modelling to digital fabrication, electronics, materials"
-      - "Documentation: Anyone can go through the process, understand it and reproduce it"
-      - "Final outcome: Is the project assembled, functioning and complete"
-      - "Originality - Aesthetics: Has the design been thought through and elaborated?"
+      - "Research skills: the participant has acquired knowledge through references and Concept development"
+      - "Design skills: the participant has learnt through sketches, 3D modeling, use of electronics, etc"
+      - "Fabrication skills: the participant is capable of executing from file to production workflow, from 3D modelling to digital fabrication, electronics, materials"
+      - "Process skills: Anyone can go through the process, understand it and reproduce it"
+      - "Final outcome: The assignment is assembled and either complete or tested"
+      - "Originality: Has the design been thought through and elaborated?"
     checklist:
       - "Research and document existing fabrication methods, machines and industries, add references, tutorials and sketches of the hardware you will make"
       - "Document the process of designing the files for your machine/machine-hack/tool and its fabrication including the assembly process"
@@ -23,4 +23,5 @@ tasks:
       - "Make a small video of the machine"
       - "Create an interface for controling your machine (extra credit)"
 faq: |
-  None yet
+  Q: Could I simply replicate an existing OS machine?
+  A: Yes, you can replicate an existing OS machine, document well your testing, material recipes / use while using the machine or the electronics you experimented with.

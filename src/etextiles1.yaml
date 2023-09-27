@@ -1,17 +1,16 @@
 unit: E-textiles
 unit_id: etextiles1
-version: 2023
-date: "2022-10-18"
+version: 2024
+date: "2023-10-17"
 tasks:
   - name: E-textiles
     description:
     outcomes:
-      - References and Concept development
-      - Understand how we can produce soft circuits, sensors and actuators
-      - Learn how to embed electronics on fabrics
-      - Study and learn soft-hard connections
-      - Discover necessary materials, components, tools
-      - Explore and replicate existing projects
+      - "Research skills: the participant has acquired knowledge through references or replicating existing projects"
+      - "Design skills: the participant understands how to produce soft circuits, sensors and actuators"
+      - "Fabrication skills: Learn how to embed electronics on fabrics, study soft-hard connections"
+      - "Process skills: Anyone can go through the workflow, understand it and reproduce it"
+      - "Final outcome: The assignment is assembled and either complete or tested"
     checklist:
       - Build at least one digital and one analogue soft sensor, using different materials and techniques.
       - Document the sensor project as well as the readings got using the AnalogRead of Arduino
@@ -22,4 +21,5 @@ tasks:
       - Upload a small video of the swatches functioning
       - Integrate the swatch into a project (extra credit)
 faq: |
-  None yet
+  Q: Can I make a regular electronic circuit with regular (hard) wires, breadboards, etc?
+  A: A soft circuit needs to be made, be sure that your circuit can be easily attached / sewed into a fabric piece/garment and it is “comfortable” to wear / easy to use.

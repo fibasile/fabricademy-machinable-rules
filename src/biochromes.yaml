@@ -1,28 +1,22 @@
 unit: Biochromes
 unit_id: biochromes
-version: 2023
-date: "2022-10-11"
+version: 2024
+date: "2023-10-10"
 tasks:
   - name: Biochromes
     description:
     outcomes:
-      - "References and Concept development"
-      - "Master techniques for preparing and mordanting natural fibers"
-      - "Master techniques for natural dyeing (botanical or bacterial)"
-      - "Master techniques for making inks (botanical or bacterial) - (marker/water-based)"
-      - "Documentation: Anyone can go through the process and use the recipes"
-      - "Final outcome: Understand all the stages of color: dye, ink and pigment"
-      - "Originality - Aesthetics: Has the presentation been thought through and elaborated"
+      - "Research skills: the participant has acquired knowledge through references and concept development"
+      - "Technical skills: Master techniques mordanting, dyeing (botanical or bacterial), pigments "
+      - "Process skills:  Anyone can go through the workflow and recipes, understand them and reproduce it"
+      - "Final outcome: the participant understands various stages of color as: dye, inks and pigment"
+      - "Originality: Has the research been thought through and elaborated?"
     checklist:
       - "Include some inspiration: research on artists or projects that on natural/bacterial dyeing, local ingedients and resources"
-      - |
-        Produce at least 1 natural dye on fabric, plus 1 ink or 1 pigment:
-            - Natural dye - modify it’s colour and mordanting it in different ways to dye at least 2 different categories of fibers
-            - Bacterial dye - Explore dyeing with bacteria of different fibers and/or bacteria
-            - Inks - Explore waterbased or ethanol based ink production and document it
-            - Pigment - Explore botanical lake pigment production and document it
-
-      - Document your recipes, the ingredients and process and if there have been changes, document your unexpected discoveries
-      - Submit some of your swatches to the analog material library of your lab (20cm x 20cm approx)
+      - "Produce at least 1 natural dye with modifiers on fabric"
+      - "Produce 1 ink OR 1 pigment"
+      - "Document your recipes, the ingredients and process and if there have been changes, document your unexpected discoveries"
+      - "Submit some of your swatches to the analog material library of your lab (20cm x 20cm approx)"
 faq: |
-  None yet
+  Q: Can this assignment be done in group?
+  A: Yes, but you need to document clearly your own experimentation with text and pictures. If you use your colleague’s picture, always credit them.

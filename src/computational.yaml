@@ -1,20 +1,20 @@
 unit: Computational Couture
 unit_id: computational
-version: 2023
-date: "2022-11-01"
+version: 2024
+date: "2023-10-31"
 tasks:
   - name: Computational Couture
     description:
     outcomes:
-      - "References and Concept development"
-      - "Design: sketch, 3D modeling skills, Parametric modeling skills"
-      - "Fabrication: Capable of executing from file to production workflow, from 3D modelling to 3D printing, parameters, materials"
-      - "Documentation: Anyone can go through the process, understand it and reproduce it"
-      - "Final outcome: Create a series of samples/swatches of 3D as fabric or on fabrics and a 3D parametric model."
-      - "Originality - Aesthetics: Has the design been thought through and elaborated?"
+      - "Research skills: the participant has acquired knowledge through references and Concept development"
+      - "Design skills: the participant has acquired 3D modeling skills and explored parametric skills"
+      - "Fabrication skills: the participant is capable of executing from file to production workflow, from 3D modelling to 3D printing"
+      - "Process skills: Anyone can go through the process, understand it and reproduce it"
+      - "Final outcome: Create samples/swatches of 3D printing as fabric or on fabrics and a 3D/parametric model"
+      - "Originality: Has the design been thought through and elaborated?"
     checklist:
       - "Document the concept, sketches, references also to artistic and scientific publications on 3D printing and parametric modeling"
-      - "Design a parametric model using Grasshopper3D and upload the rhino file + grasshopper files"
+      - "Design a parametric model using Grasshopper3D (or alternative parametric software) and upload the 3Ddesign file + required parametric files"
       - "Learn how to use a 3D printer and document the step-by-step process and settings"
       - "Document the workflow for exporting your file and preparing the machine, Gcode and settings to be 3D printed"
       - "Print your file and document the outcomes"
@@ -23,3 +23,5 @@ tasks:
 faq: |
   Q: Is it mandatory to use Grasshopper3D?
   A: As this is one of the standard tools, that have created a large community of users and libraries around it, it is strongly recommended to try this software. But other parametric packages such as Solidworks, Blender, Autodesk Dynamo / Revit are acceptable.
+  Q: Can I use a different software? how will it be evaluated?
+  A: Yes you can decide to use a different parametric software, please explain why and make sure to record your screen while experimenting with the parametric file if it's not Grasshopper / Rhino. The video can be uploaded to youtube / vimeo etc and embedded in your site (to .
