@@ -1,13 +1,13 @@
 unit: E-textiles
 unit_id: etextiles1
-version: 2024
-date: "2023-10-17"
+version: 2025
+date: "2024-10-15"
 tasks:
   - name: E-textiles
     description:
     outcomes:
       - "Research skills: the participant has acquired knowledge through references or replicating existing projects"
-      - "Design skills: the participant understands how to produce soft circuits, sensors and actuators"
+      - "Design skills: the participant understands how to produce soft circuits and sensors"
       - "Fabrication skills: Learn how to embed electronics on fabrics, study soft-hard connections"
       - "Process skills: Anyone can go through the workflow, understand it and reproduce it"
       - "Final outcome: The assignment is assembled and either complete or tested"

@@ -1,7 +1,7 @@
 unit: Textile Scaffold
 unit_id: textile_scaffold
-version: 2024
-date: "2023-11-14"
+version: 2025
+date: "2024-11-19"
 tasks:
   - name: Textile Scaffold
     description:
@@ -22,11 +22,11 @@ tasks:
             - resin & bioresin -textiles composite
             - leather molding
             - other
-      - "Document the process from CAD to CAM, the step-by-step instructions for CNC milling, mold making, vaccum forming and textile composites"
-      - "Upload your design and fabrication files, including the 3D model and CAM file"
+      - "Document the process including the step-by-step instructions on software, machine, mold making, vaccum forming and textile composites"
+      - "Upload your design and fabrication files, including the 3D model and CAM file when possible"
       - "Document at least 2 processes from design to prototyping, fabrication, materials used, document your achievements and unexpected outcomes"
       - "Make a stop motion of your crystal growth or use 3D modeling software to simulate your design (extra credit)"
 faq: |
-  Q: Is the use of the CNC mandatory? (not sure about this:)
-  A: It is mandatory to digitally fabricate a 3d mold, through 2d/3d design, if you have access to a cnc milling machine we recommend you fabricate through cnc milling, otherwise lasercutting and/or 3d printing.  
+  Q: Is the use of the CNC mandatory?
+  A: It is mandatory to digitally fabricate a 3d mold, through 2d/3d design, if you have access to a cnc milling machine we recommend you fabricate through cnc milling, otherwise lasercutting and/or 3d printing.
 

@@ -1,7 +1,7 @@
 unit: Wearables
 unit_id: wearables
-version: 2024
-date: "2023-11-07"
+version: 2025
+date: "2024-11-12"
 tasks:
   - name: Wearables
     description:

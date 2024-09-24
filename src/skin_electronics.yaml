@@ -1,7 +1,7 @@
 unit: Skin Electronics
 unit_id: skin_electronics
-version: 2024
-date: "2023-12-12"
+version: 2025
+date: "2024-12-03"
 tasks:
   - name: Skin Electronics
     description:

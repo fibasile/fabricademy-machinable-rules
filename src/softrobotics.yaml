@@ -1,26 +1,26 @@
 unit: Soft Robotics
 unit_id: soft-robotics
-version: 2024
-date: "2023-12-05"
+version: 2025
+date: "2024-11-05"
 tasks:
   - name: Soft Robotics
     description:
     outcomes:
       - "Research skills: the participant has acquired knowledge through references and Concept development"
-      - "Design skills: the participant has learnt through sketches, 2D and 3D modeling, Parametric modeling and electronic skills, simulation"
+      - "Design skills: the participant has learnt through sketches, 2D and 3D modeling, simulations and (paper) prototypes"
       - "Fabrication skills: the participant is able of executing from file to production workflow, molding and casting, vinylcutting, laser cutting"
       - "Documentation: Anyone can go through the process, understand it and reproduce it"
       - "Final outcome: Is the project assembled, functioning and complete"
       - "Originality: Has the design been thought through and elaborated?"
     checklist:
-      - "Document the concept, sketches, references also to artistic and scientific publications?"
+      - "Document the concept, sketches, references (also to artistic and scientific articles)"
       - |
         Make a soft robotic sample, develop the pattern for the Inflatable and draw a sketch of the air flow:
             - build a pneumatic wrist brace (basic level) or
             - build a Soft Gripper (intermediate level) or
             - build and document a Pneumatic, digitally controlled system, electronics schematic, electronic control and code (advanced level)
             - design your own version of an inflatable / soft robot
-      - "Experiment with different materials, such as silicones, 3d printing, parchment paper, thermoadesive vynil, TPU fabrics, bioplastic, document your achievements and unexpected outcomes"
+      - "Experiment with different materials, such as silicone, 3d printing, parchment paper, thermoadesive vynil, TPU fabrics, bioplastic, document your achievements and unexpected outcomes"
       - "Make a small video of your inflatable/soft robot working"
       - "Upload your digital design files (if any)"
       - "Build the electronic circuit to control your inflatable/soft robot (extra credit)"

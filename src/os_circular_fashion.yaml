@@ -1,7 +1,7 @@
 unit: Open Source Circular Fashion
 unit_id: os_circular_fashion
-version: 2024
-date: "2023-10-03"
+version: 2025
+date: "2024-10-01"
 tasks:
   - name: Open Source Circular Fashion
     description:
@@ -21,4 +21,6 @@ tasks:
       - "Upload the fabrication PDF file at [oscircularfashion.com](https://oscircularfashion.com), in 1:1 scale accompanied by 1-5 pictures (preferably in white background)"
       - "Submit some of the modules to the analog or digital material library of the lab. (Recommended size 20cm x 20cm) (extra credit)"
 faq: |
-  None yet
+  Q: is 0-waste a requirement?
+  A: A total 0-waste approach is not always achievable when working with modules, when this is the case, calculate, showcase and reflect on the % of leftovers textiles.
+      Tip: you can use these leftovers in later assignments - in the form of fillers for biofabricating materials or textile scaffold.

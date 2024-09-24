@@ -1,7 +1,7 @@
 unit: Digital Bodies
 unit_id: digital_bodies
-version: 2024
-date: "2023-09-26"
+version: 2025
+date: "2024-09-24"
 tasks:
   - name: Digital Bodies
     description:
@@ -24,3 +24,13 @@ tasks:
 faq: |
   Q: Can I upload the big `.stl` files obtained from the scanning?
   A: You can create an account at https://sketchfab.com/ and/or https://cults3d.com/en
+  Q: Is there a minimum size for the body/body part to be fabricated this week?
+  A: There is not a minimum size for a body or body part to be fabricated, as long as the learning process of working from physical - to digital - back to physical fabrication is understood and achieved. Its not necessary to work on a full 1:1 scale either when making a full body, as important learning challenges and mistakes can lead to unwanted material waste.
+  Q: Is the lasercutter use a requirement for this week?
+  A: Use of the laser cutter is an important mastery for this week, but its also a minimum requirement rather than an exclusive one. When participants already master the local lab protocols for operating the laser cutter, they are allowed to additionally include other techniques or technologies.
+  Q: Does the mannequin have to be functional or can it be decorative or an art piece?
+  A: The body created is not required to have a specific function, it can function as a mannequin or last for a shoe or hat mould, but it can also simply be of artistic expression and research in understanding the form of a body in 3d through digital fabrication.
+  Q: Can any software be used?
+  A: Rhino is not a requirement but suggested in preparation to the parametric class, otherwise Blender and Fusion are good altrernatives
+  Q: How much material can be used?
+  A: Participants should not exceed 6 sheets of 1000x600mm, we suggest to avoid the use of acrylic.
