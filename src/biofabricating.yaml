@@ -1,7 +1,7 @@
 unit: Biofabricating materials
 unit_id: biofabricating
-version: 2025
-date: "2024-10-29"
+version: 2026
+date: "2025-10-28"
 tasks:
   - name: Biofabricating materials
     description:

@@ -1,7 +1,7 @@
 unit: Digital Bodies
 unit_id: digital_bodies
-version: 2025
-date: "2024-09-24"
+version: 2026
+date: "2025-09-23"
 tasks:
   - name: Digital Bodies
     description:

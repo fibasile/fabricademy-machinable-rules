@@ -1,7 +1,7 @@
 unit: Wearables
 unit_id: wearables
-version: 2025
-date: "2024-11-12"
+version: 2026
+date: "2025-11-11"
 tasks:
   - name: Wearables
     description:
@@ -14,16 +14,16 @@ tasks:
       - "Originality: Has the design been thought through and elaborated?"
     checklist:
       - "Document the concept, sketches, references also to artistic and scientific publications"
-      - "Create a swatch/sample using an ATTiny/Arduino/Adafruit with one input and one output, using hard-soft connection solutions and battery"
+      - "Create a swatch/sample using a microcontroller with one input and one output, using hard-soft connection solutions and battery"
       - |
-        Create 2 actuator swatches and test them with the Arduino or ATTiny, chosing from examples such as:
+        Create 2 actuator swatches and test them, chosing from examples such as:
             - motors / mini vibration
             - leds / neopixels
             - flip dot / electromagnet
             - heat pad / with thermochromic coating
             - speaker / mp3 player
             - SMA (shape memory alloy)
-      - "Learn how to program an Arduino/ATTiny/Adrafruit, documenting your process, the libraries added, power requirements and source code"
+      - "Learn how to program a microcontroller, documenting your process, the libraries added, power requirements and source code"
       - "Document the schematic and circuit"
       - "Upload a small video of your object working"
       - "Integrate it to a project (extra credit)"

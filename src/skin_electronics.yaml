@@ -1,7 +1,7 @@
 unit: Skin Electronics
 unit_id: skin_electronics
-version: 2025
-date: "2024-12-03"
+version: 2026
+date: "2025-12-02"
 tasks:
   - name: Skin Electronics
     description:
@@ -28,7 +28,7 @@ faq: |
   Q: How is this different from wearables?
   A: For skin electronics the circuit should be a wearable placed on the skin (mask, hair, tattoo, patch, glove, nails)
   Q: Do I need to use a microcontroller?
-  A: Yes, you should use a small microcontroller  that can be hidden - such as ATtiny, gemma or other similar 
+  A: Yes, you should use a small microcontroller  that can be hidden - such as ATtiny, gemma or any other alike.
   Q: Can it be connected to a power supply or computer?
-  A: No, your wearables should be powered by battery.
+  A: Your wearables should be powered by battery.
 
