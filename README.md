@@ -1,15 +1,21 @@
-# Tests for machine-friendly assessment rules
+# NuEval machine-friendly assessment rules
 
-This is a small test, to try ways to represent assessment rules in a git-friendly format that can be converted easily
-in UI for the evaluation.
+These are the assessment rules in a git-friendly format that can be converted easily
+in UI for the NuEval evaluation and into the "Criteria Assessment" doc.
 
-In the test the rules are represented using [YAML](http://yaml.org/)
+The Yaml structure allows us to build both the gitbook and nueval formats.
 
+> This project will automatically build and publish the Gitbook docs using GitLab CI & Pages.
 
-## Rule file format
+## Locations
 
-The structure follows this general model:
+* Yaml rules: `/src` (the criteria/rules in yaml format)
 
+## Assessment rules file format
+
+The rules are represented using [YAML](http://yaml.org/). The structure follows this general model:
+
+```yaml
     unit: <Unit name>
       tasks:
        - name: Task name
@@ -18,49 +24,58 @@ The structure follows this general model:
          checklist: student checklist
        -..
       faq: Markdown faq
-
-Take a look to the provided .yaml for a full example
-
-## Build.py
-
-This script takes all the yaml files in src/ and can:
-
-**Test them for correctness**
-
-   python build.py test
-
-This will simply check syntax and exit without errors if it's correct
-
-**Convert them to Markdown**
-
-   python build.py gitbook
-
-This will generate a `gitbook` folder containing the Markdown formatted files.
-
-**Convert them to JSON**
-
-   python build.py json
-
-This will generate a `json` folder containing the JSON formatted files.
-
-## Try it yourself
-
-To be able to run build.py you need to intsall the packages in requirements.txt
-
-   pip install -r requirements.txt
-
-## Using Docker
-
-```
-docker build -t fabricademy-machinable-rules .
-
-docker run --rm -it -v ${PWD}:/src fabricademy-machinable-rules json
-docker run --rm -it -v ${PWD}:/src fabricademy-machinable-rules gitbook
 ```
 
-## Next steps
+Take a look at the provided .yaml rules in `src` folder for a full example
 
-This format should allows us to build the gitbook and nueval version from the YAML files,
-so we might convert the remaining pagese using the format.
+> **Remember** Indentation is very important in a YAML file
 
 
+## Outputs
+
+* `public/json` files for importing into Nueval (inc a `rules.json` list of all files).
+* `public/gitbook/criteria.md` markdown file containing all criteria to add to handbook.
+
+
+## Run locally
+
+There is a python script that takes all the Yaml files and converts them into JSON and Markdown files.
+
+To be able to run the build script you, need to install the packages from [requirements.txt](requirements.txt).
+
+`pip install -r requirements.txt`
+
+### Step 1. Validate Yaml files
+This will check syntax and exit without errors if it's correct. If there are errors, review and fix the corresponding yaml files.
+
+`python build.py test`
+
+### Step 2. Convert Yaml to JSON
+Use this to generate the Nueval json files. This will generate a `json` folder containing the JSON formatted files.
+
+`python build.py json`
+
+### Step 3. Convert Yaml to Markdown
+Use this to generate the markdown for Gitbook docs. This will add files to the `gitbook` folder formatted as Markdown.
+
+`python build.py gitbook`
+
+
+## Example: Using Docker
+Can be usefull to test/run locally, without installing Python/gitbook etc. 
+The Dockefiles (or CI) can also be used to see what is needed to run these scripts
+
+### First time: 
+
+`docker build -t fabri-rules-build -f Dockerfile-build .`
+`docker build -t fabri-rules-gitbook -f Dockerfile-gitbook .`
+
+And probably this one:
+`docker run --rm -it -v ${PWD}/gitbook:/opt/gitbook fabri-rules-gitbook gitbook install`
+
+### To generate JSON
+`docker run --rm -it -v ${PWD}:/src fabri-rules-build json`
+
+### To generate Gitbook/docs
+`docker run --rm -it -v ${PWD}:/src fabri-rules-build gitbook`
+`docker run --rm -it -v ${PWD}/gitbook:/opt/gitbook -v ${PWD}/public:/opt/public fabri-rules-gitbook`

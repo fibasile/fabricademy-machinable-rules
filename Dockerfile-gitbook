@@ -1,0 +1,22 @@
+FROM node:6-slim
+
+RUN mkdir -p /opt/gitbook
+WORKDIR /opt/gitbook
+
+RUN apt-get update && apt-get install -y calibre git
+RUN npm install gitbook-cli -g
+# RUN npm install ebook-convert -g
+# RUN npm install emojify.js --save
+RUN npm init --yes && npm install gitbook-plugin-advanced-emoji --save
+# RUN gitbook fetch latest
+# RUN gitbook fetch pre
+# RUN gitbook fetch 2.6.7
+RUN gitbook fetch 3.2.3
+RUN node --version
+RUN gitbook --version
+
+COPY gitbook/ .
+
+RUN gitbook install
+
+CMD gitbook build . ../public
