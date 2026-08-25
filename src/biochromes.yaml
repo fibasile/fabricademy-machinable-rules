@@ -1,7 +1,7 @@
 unit: Biochromes
 unit_id: biochromes
-version: 2026
-date: "2025-10-07"
+version: 2027
+date: "2026-10-06"
 tasks:
   - name: Biochromes
     description:
@@ -13,10 +13,10 @@ tasks:
       - "Originality: Has the research been thought through and elaborated?"
     checklist:
       - "Include some inspiration: research on artists or projects that on natural/bacterial dyeing, local ingedients and resources"
-      - "Produce at least 1 natural dye with modifiers on fabric"
-      - "Produce 1 ink OR 1 pigment"
-      - "Document your recipes, the ingredients and process and if there have been changes, document your unexpected discoveries"
-      - "Submit some of your swatches to the analog material library of your lab (20cm x 20cm approx)"
+      - "Produce at least 1 natural dye with modifiers on fabric or yarn"
+      - "Produce 1 ink (not just dye on a paper) OR 1 pigment (recycling the dye bath leftover or creating one from scratch"
+      - "Document your recipes, the ingredients and process and if there have been changes from what was provided, document your unexpected discoveries"
+      - "Submit some of your swatches or a catalogue of them to the analog material library of your lab (20cm x 20cm approx)"
 faq: |
   Q: Can this assignment be done in group?
   A: Yes, but you need to document clearly your own experimentation with text and pictures. If you use your colleague’s picture, always credit them.

@@ -1,7 +1,7 @@
 unit: E-textiles
 unit_id: etextiles1
-version: 2026
-date: "2025-10-14"
+version: 2027
+date: "2026-10-13"
 tasks:
   - name: E-textiles
     description:
@@ -19,7 +19,8 @@ tasks:
       - Document your swatches / samples
       - Upload your arduino code as text
       - Upload a small video of the swatches functioning
-      - Integrate the swatch into a project (extra credit)
 faq: |
+  Q: What can i do for extra points?
+  A: Integrate the swatch into an actual project
   Q: Can I make a regular electronic circuit with regular (hard) wires, breadboards, etc?
   A: A soft circuit needs to be made, be sure that your circuit can be easily attached / sewed into a fabric piece/garment and it is “comfortable” to wear / easy to use.

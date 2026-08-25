@@ -1,7 +1,7 @@
 unit: Computational Couture
 unit_id: computational
-version: 2026
-date: "2025-10-21"
+version: 2027
+date: "2026-10-20"
 tasks:
   - name: Computational Couture
     description:
@@ -19,8 +19,9 @@ tasks:
       - "Document the workflow for exporting your file and preparing the machine, Gcode and settings to be 3D printed"
       - "Print your file and document the outcomes"
       - "Upload your stl file"
-      - "Submit some of your swatches to the analog material library of your lab. Size 20cm x 20cm approx (extra credit)"
 faq: |
+  Q: What can i do for extra points?
+  A: Submit some of your swatches to the analog material library of your lab. Size 20cm x 20cm approx
   Q: Is it mandatory to use Grasshopper3D?
   A: As this is one of the standard tools, that have created a large community of users and libraries around it, it is strongly recommended to try this software. But other parametric packages such as Solidworks, Blender, Autodesk Dynamo / Revit are acceptable.
   Q: Can I use a different software? how will it be evaluated?

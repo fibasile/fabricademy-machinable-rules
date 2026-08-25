@@ -1,7 +1,7 @@
 unit: "PPD Final Presentation"
 unit_id: ppd-final-presentation
-version: 2026
-date: "2026-03-30"
+version: 2027
+date: "2027-03-30"
 tasks:
   - name: "PPD Final presentation"
     description: |
@@ -20,8 +20,8 @@ tasks:
       - "Video or movie presentation"
       - "Booklet or (visual) thesis"
       - "Document your final project development including blueprints, source files, list of materials, code, project iterations and final outcome"
-      - "Publish your project on a magazine or international platform (extra credit)"
 faq: |
+  Q: What can i do for extra points?
+  A: Publish your project on a magazine or international platform
   Q: Is a final project acceptable if it is only based one or two classes of the course?
-  A: Yes, but in this case the project must be a relevant and original contribution to the field, and the depth of the work should clearly be much more than a regular assignment for that week. Multidisciplinarity is considered important in Fabricademy. 
-      Yes, but the individual student contribution should cover all the phases of the project and be clearly identified in the documentation. In any case it is recommended that each of the student develops a module of the project, starting from the concept to the actual realisation.
+  A: Yes, but in this case the project must be a relevant and original contribution to the field, and the depth of the work should clearly be much more than a regular assignment for that week. Multidisciplinarity is considered important in Fabricademy.

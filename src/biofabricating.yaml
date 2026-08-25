@@ -1,7 +1,7 @@
 unit: Biofabricating materials
 unit_id: biofabricating
-version: 2026
-date: "2025-10-28"
+version: 2027
+date: "2026-10-27"
 tasks:
   - name: Biofabricating materials
     description:
@@ -14,9 +14,9 @@ tasks:
     checklist:
       - "Include some inspiration: research on artists, projects, platforms that work with biomaterials, local ingedients and resources"
       - |
-        Produce at least one crafted and one grown material:
-            - Crafted material - explore the different recipes and understand how to adjust them based on the ingredients:
-            - Grown material - explore the different recipes and understand how to adjust them based on the ingredients
+        Produce at least samples from one crafted and one grown material:
+            - Crafted material - explore the different recipes and understand how to adjust them based on the ingredients (bioplastics/resins/extruded yarns/gathered&twisted fibers/non-woven matrix)
+            - Grown material - explore the different recipes and understand how to adjust them based on the ingredients (bnc / mycelium / molds / etc)
 
       - Document your recipes, the ingredients and process and if there have been changes, document your unexpected discoveries
       - Name your materials, classify them by typology and display them in a systematic order of samples

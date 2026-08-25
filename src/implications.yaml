@@ -1,7 +1,7 @@
 unit: Implications and applications
 unit_id: implications
-version: 2026
-date: "2025-12-09"
+version: 2027
+date: "2026-12-08"
 tasks:
   - name: Implications and applications
     description:
@@ -16,6 +16,8 @@ tasks:
       - "Create an Ultra-personalised product service system (UPPSS) for your final project proposal"
       - "Map the potential stakeholders"
       - "Explore personalisation at different levels"
-      - "Interview your potential users/target group about your concept, quantify results (extra credit)"
 faq: |
-  None yet
+  Q: What can i do for extra points?
+  A: Interview your potential users/target group about your concept, quantify results.
+
+

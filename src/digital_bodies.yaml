@@ -1,7 +1,7 @@
 unit: Digital Bodies
 unit_id: digital_bodies
-version: 2026
-date: "2025-09-23"
+version: 2027
+date: "2026-09-22"
 tasks:
   - name: Digital Bodies
     description:
@@ -20,10 +20,12 @@ tasks:
       - "Learn how to laser cut, document the workflow including the machine settings, material type and thickness"
       - "Upload your 3D file (STL/OBJ) and your 2D files (DXF/PDF)"
       - "Build and/or assemble a mannequin or body parts"
-      - "Create a stop motion or step-by-step assemblying process and upload one picture (HIGH RES) of your mannequin (extra credit)"
+
 faq: |
+  Q: What can i do for extra points?
+  A: Create a stop motion / step-by-step assemblying process video and upload one picture (HIGH RES) of your mannequin to the drive folder of Fabricademy
   Q: Can I upload the big `.stl` files obtained from the scanning?
-  A: You can create an account at https://sketchfab.com/ and/or https://cults3d.com/en
+  A: You can zip it and upload it, or create an account at https://sketchfab.com/ making sure the file is downloadable
   Q: Is there a minimum size for the body/body part to be fabricated this week?
   A: There is not a minimum size for a body or body part to be fabricated, as long as the learning process of working from physical - to digital - back to physical fabrication is understood and achieved. Its not necessary to work on a full 1:1 scale either when making a full body, as important learning challenges and mistakes can lead to unwanted material waste.
   Q: Is the lasercutter use a requirement for this week?

@@ -1,7 +1,7 @@
 unit: Textile Scaffold
 unit_id: textile_scaffold
-version: 2026
-date: "2025-11-18"
+version: 2027
+date: "2026-11-17"
 tasks:
   - name: Textile Scaffold
     description:
@@ -25,8 +25,9 @@ tasks:
       - "Document the process including the step-by-step instructions on software, machine, mold making, vaccum forming and textile composites"
       - "Upload your design and fabrication files, including the 3D model and CAM file when possible"
       - "Document at least 2 processes from design to prototyping, fabrication, materials used, document your achievements and unexpected outcomes"
-      - "Make a stop motion of your crystal growth or use 3D modeling software to simulate your design (extra credit)"
 faq: |
+  Q: What can i do for extra points?
+  A: Make a stop motion of your crystal growth or use 3D modeling software to simulate your design.
   Q: Is the use of the CNC mandatory?
   A: It is mandatory to digitally fabricate a 3d mold, through 2d/3d design, if you have access to a cnc milling machine we recommend you fabricate through cnc milling, otherwise lasercutting and/or 3d printing.
 

@@ -1,7 +1,7 @@
 unit: Open Source Circular Fashion
 unit_id: os_circular_fashion
-version: 2026
-date: "2025-09-30"
+version: 2027
+date: "2026-09-29"
 tasks:
   - name: Open Source Circular Fashion
     description:
@@ -19,8 +19,9 @@ tasks:
       - "Document the process of testing and laser cutting your designs, including the machine settings, material type and thickness"
       - "Laser cut the modules. Create a modular or seamless garment, showing that the connection is well-designed and holds the pull/stretch. Document the assembly process and tests"
       - "Upload the fabrication PDF file at [oscircularfashion.com](https://oscircularfashion.com), in 1:1 scale accompanied by 1-5 pictures (preferably in white background)"
-      - "Submit some of the modules to the analog or digital material library of the lab. (Recommended size 20cm x 20cm) (extra credit)"
 faq: |
+  Q: What can i do for extra points?
+  A: Submit some of the modules to the analog or digital material library of the lab. (Recommended size 20cm x 20cm)
   Q: is 0-waste a requirement?
   A: A total 0-waste approach is not always achievable when working with modules, when this is the case, calculate, showcase and reflect on the % of leftovers textiles.
       Tip: you can use these leftovers in later assignments - in the form of fillers for biofabricating materials or textile scaffold.

@@ -1,7 +1,7 @@
 unit: Open Source Hardware - from fibers to fabrics
 unit_id: oshw
-version: 2026
-date: "2025-11-25"
+version: 2027
+date: "2026-11-24"
 tasks:
   - name: Open Source Hardware - from fibers to fabrics
     description:
@@ -21,7 +21,8 @@ tasks:
       - "Upload your 3D model and CAM files (if any)"
       - "Design, create and document a final outcome, a sample project of your process"
       - "Make a small video of the machine"
-      - "Create an interface for controling your machine (extra credit)"
 faq: |
+  Q: What can i do for extra points?
+  A: Create an interface for controling your machine
   Q: Could I simply replicate an existing OS machine?
   A: Yes, you can replicate an existing OS machine, document well your testing, material recipes / use while using the machine or the electronics you experimented with.

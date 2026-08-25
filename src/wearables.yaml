@@ -1,7 +1,7 @@
 unit: Wearables
 unit_id: wearables
-version: 2026
-date: "2025-11-11"
+version: 2027
+date: "2026-11-10"
 tasks:
   - name: Wearables
     description:
@@ -26,6 +26,6 @@ tasks:
       - "Learn how to program a microcontroller, documenting your process, the libraries added, power requirements and source code"
       - "Document the schematic and circuit"
       - "Upload a small video of your object working"
-      - "Integrate it to a project (extra credit)"
 faq: |
-  None yet
+  Q: What can i do for extra points?
+  A: Integrate it into an actual product / garment / fully functioning project

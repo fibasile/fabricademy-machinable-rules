@@ -1,34 +1,30 @@
-unit: Skin Electronics
+unit: Skin Interfaces
 unit_id: skin_electronics
-version: 2026
-date: "2025-12-02"
+version: 2027
+date: "2026-12-01"
 tasks:
-  - name: Skin Electronics
+  - name: Skin Interfaces
     description:
     outcomes:
       - "Research skills: the participant has acquired knowledge through references and concept development"
-      - "Design skills: the participant learnt to program a microcontroller, design circuit and schematic"
-      - "Fabrication skills: the participant is able of integrating inputs and outputs in a microcontroller project"
+      - "Design skills: the participant learnt to program a microcontroller, design circuit and schematic OR has explored the world of bio-electronics and learnt to design a bio-sensor"
+      - "Fabrication skills: the participant is able of integrating inputs and outputs in a microcontroller project OR is able to integrate bio-sensors in a wearable project to craft a wearable interface"
       - "Process skills: Anyone can go through the process, understand it and reproduce it"
       - "Final outcome: Is the assignment is assembled, functioning or tested"
       - "Originality: Has the design been thought through and elaborated?"
     checklist:
       - "Document the concept, sketches, references also to artistic and scientific publications"
-      - |
-        Design a “skin-circuit”, exploring the replication of the examples bwlow or:
-            - the Skin masquerade party project
-            - the Twinkle Nails project
-            - interactive tattoo
-            - explore how to create a new skin electronics accessory.
+      - "Design “wearable interfaces”, with either a bio-based reactive sensor (pH / temperature / etc) or using close to the skin electronics with a micro-controller"
       - "Document the project and included all source files and all materials used"
-      - "Upload your design files and source code"
+      - "Upload your design files and source code OR the detailed bio-recipe and process of sensing"
       - "Make a video with your skin electronic working"
-      - "Make a short performance/concept of your project functioning (extra credit)"
 faq: |
+  Q: What can i do for extra points?
+  A: Make a short performance/concept movie of your project functioning.
   Q: How is this different from wearables?
   A: For skin electronics the circuit should be a wearable placed on the skin (mask, hair, tattoo, patch, glove, nails)
   Q: Do I need to use a microcontroller?
-  A: Yes, you should use a small microcontroller  that can be hidden - such as ATtiny, gemma or any other alike.
+  A: Yes, but you have options: you should either use a small microcontroller that can be hidden - such as ATtiny, gemma or any other alike and/or decide to work with bio-electronics and thoroughly document the functioning of your bio-sensor and integrate it as a skin interface into a project.
   Q: Can it be connected to a power supply or computer?
-  A: Your wearables should be powered by battery.
+  A: Your wearables should be powered by battery to ensure wearability where possible.
 
